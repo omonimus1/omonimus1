@@ -17,7 +17,7 @@ My area of interestes are: Algorithms and Data Structures, Machine Learning, and
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/davidepollicino7/")
 <br /> 
 <p>📫  davidepollicino2015@gmail.com</p>
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=omonimus1&show_icons=true&&hide_border=true&title_color=red&icon_color=black)
 
