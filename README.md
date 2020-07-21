@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋, it's lovely to meet you, I am Davide Pollicino <br/> </h1> 
+<h1 align="center"> Hi there 👋, Welcome to my GitHub Profile<br/> </h1> 
 
 <p align="center"><img width=50% src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"></p>
 <h6 align="center">Animation by <a href="https://giphy.com/gifs/13HgwGsXF0aiGY" target="_blank">Giphy</a></h6>
@@ -10,9 +10,13 @@ I have been working on different projets, having experience in both Front-End an
 My area of interestes are: Algorithms and Data Structures, Machine Learning, and Operatying Systems. 🤩 🎈 </samp> </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Where to find my projects?
+
+Scroll down to know more about few of my biggest and most appreciated projects or see the complelete list with all [my repositories](https://github.com/omonimus1?tab=repositories)
 
 ### Connect with me
 <br /> 
+
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/davidepollicino7/")
 <br /> 
