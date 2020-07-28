@@ -11,6 +11,8 @@
 # Skills #
 
 - Back-End -
+ ![C++](https://img.shields.io/badge/C++%2090%25-black.svg)
+
  <img alt="C++" src=" https://img.shields.io/badge/C++%2090%25-black.svg">
  <img alt="Python" src=" https://img.shields.io/badge/Python%2070%25-blue.svg">
  <img alt="Java" src=" https://img.shields.io/badge/Java%2062%25-orange.svg">
