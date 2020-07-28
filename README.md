@@ -11,42 +11,41 @@
 # Skills #
 
 - Back-End -
- ![C++](https://img.shields.io/badge/C++%2090%25-black.svg)
-
- <img alt="C++" src=" https://img.shields.io/badge/C++%2090%25-black.svg">
- <img alt="Python" src=" https://img.shields.io/badge/Python%2070%25-blue.svg">
- <img alt="Java" src=" https://img.shields.io/badge/Java%2062%25-orange.svg">
+![C++](https://img.shields.io/badge/C++%2090%25-black.svg)
+![Python](https://img.shields.io/badge/Python%2070%25-blue.svg)
+![Java](https://img.shields.io/badge/Java%2062%25-orange.svg)
 
 - Front-End -
-<img alt="HTML" src=" https://img.shields.io/badge/HTML%2085%25-red.svg">
-<img alt="CSS" src=" https://img.shields.io/badge/CSS%2085%25-purple.svg">
-<img alt="JavaScript" src=" https://img.shields.io/badge/Javascript%2070.5%25-orange.svg">
-
+![HTML](https://img.shields.io/badge/HTML%2085%25-red.svg)
+![CSS](https://img.shields.io/badge/CSS%2085%25-purple.svg)
+![JavaScript](https://img.shields.io/badge/Javascript%2070.5%25-orange.svg)
 
 - Databases -
-<img alt="MySQL" src=" https://img.shields.io/badge/MySQL%2088%25-blue.svg">
-<img alt="MongoDB" src=" https://img.shields.io/badge/MongoDB%2065%25-green.svg">
-
+![MYSQL](https://img.shields.io/badge/MySQL%2088%25-blue.svg)
+![MongoDB](https://img.shields.io/badge/MongoDB%2065%25-green.svg)
 
 - Frameworks -
-<img alt="Bootstrap" src=" https://img.shields.io/badge/Bootstrap%2085%25-purple.svg">
-<img alt="Materialize" src=" https://img.shields.io/badge/Materialize%2075%25-coral.svg">
-<img alt="Django" src=" https://img.shields.io/badge/Django%2040%25-green.svg">
+![Bootstrap](https://img.shields.io/badge/Bootstrap%2085%25-purple.svg)
+![Materialize](https://img.shields.io/badge/Materialize%2075%25-coral.svg)
+![Django](https://img.shields.io/badge/Django%2040%25-green.svg)
 
 - Tools -
-<img alt="Git" src=" https://img.shields.io/badge/Git%2098%25-gray.svg">
-<img alt="Travis" src=" https://img.shields.io/badge/Travis%2070%25-yellow.svg">
-<img alt="Docker" src=" https://img.shields.io/badge/Docker%2068%25-blue.svg">
+![Git](https://img.shields.io/badge/Git%2098%25-gray.svg)
+![Travis](https://img.shields.io/badge/Travis%2070%25-yellow.svg)
+![Docker](https://img.shields.io/badge/Docker%2068%25-blue.svg)
+
 
 - Operatying Systems -
- <img alt="Windows" src=" https://img.shields.io/badge/WINDOWS%2085%25-blue.svg">
- <img alt="Linux" src=" https://img.shields.io/badge/Linux%2085%25-gray.svg">
+![Windows](https://img.shields.io/badge/WINDOWS%2090%25-blue.svg)
+![Linux](https://img.shields.io/badge/Linux%2090%25-gray.svg)
 
-- Agile Methodologies -<img alt="SCRUM" src=" https://img.shields.io/badge/SCRUM%2090%25-blue.svg">
 
-- Software Design - 
-<img alt="UML Class Diagrams" src=" https://img.shields.io/badge/UML Class Diagrams%2095%25-black.svg">
-<img alt="Flowcharts" src=" https://img.shields.io/badge/FLowCharts%2095%25-yellow.svg">
+- Agile Methodologies -
+![SCRUM](https://img.shields.io/badge/SCRUM%2090%25-blue.svg)
+
+- Software Design -
+![UML Class Diagrams](https://img.shields.io/badge/UMLClassDiagrams%2095%25-black.svg)
+![Flowcharts](https://img.shields.io/badge/FLowCharts%2095%25-yellow.svg) 
 
 # Facts #
 
