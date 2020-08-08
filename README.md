@@ -2,7 +2,8 @@
 
 
 * Italian undergraduate student in Computer Science at Edinburgh Napier University (UK) 🎓.
-* competitive programming enthusiastic, open-source contributor and software developer. 
+* **Microsoft** Student Learn Ambassador - **GeeksForGeeks** Campus Ambassador. 
+* Competitive programming enthusiastic, open-source contributor and software developer. 
 * I have been working on different projects, like my [Competitive programming guide](https://github.com/omonimus1/competitive-programming), [E-portfolio](https://github.com/omonimus1/Portfolio), [Vocal Personal assistant](https://github.com/omonimus1/personal_assistant) and many more.
 
 * My area of interest is Algorithms and Data Structures, Cloud Computing, Machine Learning, and Operating Systems. 🤩 
