@@ -2,8 +2,10 @@
 
 
 * Italian undergraduate student in Computer Science at Edinburgh Napier University (UK) 🎓.
-* competitive programming enthusiastic, open source contributor and software developer. 
-* I have been working on different projets, like my [Competitive programming guide](https://github.com/omonimus1/competitive-programming), [E-portfolio](https://github.com/omonimus1/Portfolio) , [Vocal Personal assistant](https://github.com/omonimus1/personal_assistant) and many more.
+* **Microsoft** Student Learn Ambassador - **GeeksForGeeks** Campus Ambassador. 
+* Competitive programming enthusiastic, open-source contributor and software developer. 
+* I have been working on different projects, like my [Competitive programming guide](https://github.com/omonimus1/competitive-programming), [E-portfolio](https://github.com/omonimus1/Portfolio), [Vocal Personal assistant](https://github.com/omonimus1/personal_assistant) and many more.
+
 
 * My area of interestes are: Algorithms and Data Structures, Cloud Computing, Machine Learning, and operating systems.
 
@@ -56,6 +58,7 @@
 ![Docker](https://img.shields.io/badge/Docker%2068%25-blue.svg)
 
 
+
 - Operating system-
 ![Windows](https://img.shields.io/badge/WINDOWS%2090%25-blue.svg)
 ![Linux](https://img.shields.io/badge/Linux%2090%25-gray.svg)
@@ -72,16 +75,18 @@
 # Facts #
 
 - 🔭 I’m currently working on: 
-**-Competitive programming guide, sharing with other folks my interests and knowledge concernes algorithms and Data-Structures.**
-**- Ricreation of my E-portfolio(davidepollicino.com) using Django** 
+**-Competitive programming guide, sharing with other folks my interests and knowledge concerns algorithms and Data-Structures.**
+**- Recreation of my E-portfolio(davidepollicino.com) using Django** 
 **-Take a look at my project in my repositories if you are interested more about it.**
 - 🌱 Currently studying: **Cloud Computing and Computer Vision**
 - 👯 Open to any collaboration: **Included internship and placement**
-- ⚡ during my free time: **I love have a look at other projects and contribute to them**
+
+
+- 📫 How to reach me: **You can find me also on [Linkedln](https://www.linkedin.com/in/davidepollicino7/)**
+
 
 **- 📫 How to reach me 🌍 : ...**
 ##### 💌Mail me [davidepollicino2015@gmail.com]()
-
 
 
 # Social Media #
