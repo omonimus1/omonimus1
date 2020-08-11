@@ -5,8 +5,29 @@
 * competitive programming enthusiastic, open source contributor and software developer. 
 * I have been working on different projets, like my [Competitive programming guide](https://github.com/omonimus1/competitive-programming), [E-portfolio](https://github.com/omonimus1/Portfolio) , [Vocal Personal assistant](https://github.com/omonimus1/personal_assistant) and many more.
 
-* My area of interestes are: Algorithms and Data Structures, Cloud Computing, Machine Learning, and Operatying Systems. 🤩 
+* My area of interestes are: Algorithms and Data Structures, Cloud Computing, Machine Learning, and operating systems.
 
+# Competitive Coding Profile #
+
+[![Hackerrank](https://img.shields.io/badge/-hackerrank-7cfc00?style=flat&labelColor=7cfc00&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/pappuskskumar/)	
+[![InterViewBit](https://img.shields.io/badge/-Interviewbit-87ceeb?style=flat&labelColor=87ceeb&logo=Interviewbit&logoColor=white)](https://www.interviewbit.com/profile/omonimus1)
+[![GeeksForGeeks](https://img.shields.io/badge/geeksforfeeks-davidepollicino-green)](https://auth.geeksforgeeks.org/user/davidepollicino/practice/)	
+[![LeetCode](https://img.shields.io/badge/-LeetCode-ff8c00?style=flat&labelColor=ff8c00&logo=LeetCode&logoColor=white)](https://leetcode.com/omonimus1/)	
+[![Codechef](https://img.shields.io/badge/-Codechef-909090?style=flat&labelColor=909090&logo=Codechef&logoColor=white)](https://www.codechef.com/users/omonimus)
+[![CodeForces](https://img.shields.io/badge/-CodeForces-ec6161?style=flat&labelColor=ec6161&logo=CodeForces&logoColor=white)](https://codeforces.com/profile/Davide_Pollicino)	
+
+# Statistics #
+
+![Pappu Kumar Pashi's github stats](https://github-readme-stats.vercel.app/api?username=omonimus1&show_icons=true&theme=tokyonight)
+
+# Most Used Language #
+
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=omonimus1&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+---
+
+# Portfolio Website #
+[![Portfolio Website](https://img.shields.io/badge/davide%20pollicino-Portfolio%20website-yellow)](https://www.davidepollicino.com/)
 
 # Skills #
 
@@ -35,7 +56,7 @@
 ![Docker](https://img.shields.io/badge/Docker%2068%25-blue.svg)
 
 
-- Operatying Systems -
+- Operating system-
 ![Windows](https://img.shields.io/badge/WINDOWS%2090%25-blue.svg)
 ![Linux](https://img.shields.io/badge/Linux%2090%25-gray.svg)
 
@@ -47,6 +68,7 @@
 ![UML Class Diagrams](https://img.shields.io/badge/UMLClassDiagrams%2095%25-black.svg)
 ![Flowcharts](https://img.shields.io/badge/FLowCharts%2095%25-yellow.svg) 
 
+
 # Facts #
 
 - 🔭 I’m currently working on: 
@@ -55,17 +77,16 @@
 **-Take a look at my project in my repositories if you are interested more about it.**
 - 🌱 Currently studying: **Cloud Computing and Computer Vision**
 - 👯 Open to any collaboration: **Included internship and placement**
-- 📫 How to reach me: **You can find me also on [Linkedln](https://www.linkedin.com/in/davidepollicino7/)**
 - ⚡ during my free time: **I love have a look at other projects and contribute to them**
 
-
-# Where to find my projects? #
-
-Scroll down to know more about few of my biggest and most appreciated projects or see the complelete list with all [my repositories](https://github.com/omonimus1?tab=repositories)
-
-# Connect with me # 
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/davidepollicino7/")
+**- 📫 How to reach me 🌍 : ...**
+##### 💌Mail me [davidepollicino2015@gmail.com]()
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=omonimus1&show_icons=true&&hide_border=true&title_color=red&icon_color=black)
+
+# Social Media #
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/omonimus1)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davidepollicino7/)
+
+
+
