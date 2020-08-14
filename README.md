@@ -84,11 +84,7 @@
 - 👯 Open to any collaboration: **Included internship and placement**
 
 
-- 📫 How to reach me: **You can find me also on [Linkedln](https://www.linkedin.com/in/davidepollicino7/)**
-
-
-**- 📫 How to reach me 🌍 : ...**
-##### 💌Mail me [davidepollicino2015@gmail.com]()
+- 📫 How to reach me: **You can find me also on [Linkedln](https://www.linkedin.com/in/davidepollicino7/)** or 💌Mail me [davidepollicino2015@gmail.com]()
 
 
 # Social Media #
