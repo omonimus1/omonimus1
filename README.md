@@ -20,7 +20,7 @@
 
 # Statistics #
 
-![Pappu Kumar Pashi's github stats](https://github-readme-stats.vercel.app/api?username=omonimus1&show_icons=true&theme=tokyonight)
+![Davide Pollicino github stats](https://github-readme-stats.vercel.app/api?username=omonimus1&show_icons=true&theme=tokyonight)
 <p align="left"><img src="https://komarev.com/ghpvc/?username=omonimus1" alt="omonimus1" /> </p>
 <br>
 
@@ -31,7 +31,7 @@
 ---
 
 # Portfolio Website #
-[![Portfolio Website](https://img.shields.io/badge/davide%20pollicino-Portfolio%20website-yellow)](https://www.davidepollicino.com/)
+[![Portfolio Website](https://img.shields.io/badge/davide%20pollicino-Portfolio%20website-yellow)](https://omonimus1.github.io/Portfolio/)
 
 # Skills #
 
