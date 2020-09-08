@@ -18,6 +18,8 @@
 [![Codingblocs](https://img.shields.io/badge/-codingblocks-blue)](https://hack.codingblocks.com/app/users/242275)
 [![Codechef](https://img.shields.io/badge/-Codechef-909090?style=flat&labelColor=909090&logo=Codechef&logoColor=white)](https://www.codechef.com/users/omonimus)
 [![CodeForces](https://img.shields.io/badge/-CodeForces-ec6161?style=flat&labelColor=ec6161&logo=CodeForces&logoColor=white)](https://codeforces.com/profile/Davide_Pollicino)	
+[![Hackerearth](https://img.shields.io/badge/hackerearth-purple.svg)](https://www.hackerearth.com/@davide12)	
+
 
 # Statistics #
 
@@ -73,16 +75,6 @@
 - Software Design -
 ![UML Class Diagrams](https://img.shields.io/badge/UMLClassDiagrams%2095%25-black.svg)
 ![Flowcharts](https://img.shields.io/badge/FLowCharts%2095%25-yellow.svg) 
-
-
-# Facts #
-
-- 🔭 I’m currently working on: 
-**-Competitive programming guide, sharing with other folks my interests and knowledge concerns algorithms and Data-Structures.**
-**- Recreation of my E-portfolio(davidepollicino.com) using Django** 
-**-Take a look at my project in my repositories if you are interested more about it.**
-- 🌱 Currently studying: **Cloud Computing and Computer Vision**
-- 👯 Open to any collaboration: **Included internship and placement**
 
 
 - 📫 How to reach me: **You can find me also on [Linkedln](https://www.linkedin.com/in/davidepollicino7/)** or 💌Mail me [davidepollicino2015@gmail.com]()
