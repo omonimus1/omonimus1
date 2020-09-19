@@ -39,42 +39,42 @@
 # Skills #
 
 - Back-End -
-![C++](https://img.shields.io/badge/C++%2090%25-black.svg)
-![Python](https://img.shields.io/badge/Python%2070%25-blue.svg)
-![Java](https://img.shields.io/badge/Java%2062%25-orange.svg)
+![C++](https://img.shields.io/badge/C++%20-black.svg)
+![Python](https://img.shields.io/badge/Python%20-blue.svg)
+![Java](https://img.shields.io/badge/Java%20-orange.svg)
 
 - Front-End -
-![HTML](https://img.shields.io/badge/HTML%2085%25-red.svg)
-![CSS](https://img.shields.io/badge/CSS%2085%25-purple.svg)
-![JavaScript](https://img.shields.io/badge/Javascript%2070.5%25-orange.svg)
+![HTML](https://img.shields.io/badge/HTML%20-red.svg)
+![CSS](https://img.shields.io/badge/CSS%20-purple.svg)
+![JavaScript](https://img.shields.io/badge/Javascript%20-orange.svg)
 
 - Databases -
-![MYSQL](https://img.shields.io/badge/MySQL%2088%25-blue.svg)
-![MongoDB](https://img.shields.io/badge/MongoDB%2065%25-green.svg)
+![MYSQL](https://img.shields.io/badge/MySQL%20-blue.svg)
+![MongoDB](https://img.shields.io/badge/MongoDB%20-green.svg)
 
 - Frameworks -
-![Bootstrap](https://img.shields.io/badge/Bootstrap%2085%25-purple.svg)
-![Materialize](https://img.shields.io/badge/Materialize%2075%25-coral.svg)
-![Django](https://img.shields.io/badge/Django%2040%25-green.svg)
+![Bootstrap](https://img.shields.io/badge/Bootstrap%20-purple.svg)
+![Materialize](https://img.shields.io/badge/Materialize%20-coral.svg)
+![Django](https://img.shields.io/badge/Django%20-green.svg)
 
 - Tools -
-![Git](https://img.shields.io/badge/Git%2098%25-gray.svg)
-![Travis](https://img.shields.io/badge/Travis%2070%25-yellow.svg)
-![Docker](https://img.shields.io/badge/Docker%2068%25-blue.svg)
+![Git](https://img.shields.io/badge/Git%20-gray.svg)
+![Travis](https://img.shields.io/badge/Travis%20-yellow.svg)
+![Docker](https://img.shields.io/badge/Docker%20-blue.svg)
 
 
 
 - Operating system-
-![Windows](https://img.shields.io/badge/WINDOWS%2090%25-blue.svg)
-![Linux](https://img.shields.io/badge/Linux%2090%25-gray.svg)
+![Windows](https://img.shields.io/badge/WINDOWS%20-blue.svg)
+![Linux](https://img.shields.io/badge/Linux%20-gray.svg)
 
 
 - Agile Methodologies -
-![SCRUM](https://img.shields.io/badge/SCRUM%2090%25-blue.svg)
+![SCRUM](https://img.shields.io/badge/SCRUM%20-blue.svg)
 
 - Software Design -
-![UML Class Diagrams](https://img.shields.io/badge/UMLClassDiagrams%2095%25-black.svg)
-![Flowcharts](https://img.shields.io/badge/FLowCharts%2095%25-yellow.svg) 
+![Flowcharts](https://img.shields.io/badge/FLowCharts%20-yellow.svg) 
+![UML DIAGRAMS](https://img.shields.io/badge/UML-diagrams%20-green.svg) 
 
 
 - 📫 How to reach me: **You can find me also on [Linkedln](https://www.linkedin.com/in/davidepollicino7/)** or 💌Mail me [davidepollicino2015@gmail.com]()
