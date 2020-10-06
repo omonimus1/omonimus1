@@ -20,13 +20,6 @@
 [![CodeForces](https://img.shields.io/badge/-CodeForces-ec6161?style=flat&labelColor=ec6161&logo=CodeForces&logoColor=white)](https://codeforces.com/profile/Davide_Pollicino)	
 [![Hackerearth](https://img.shields.io/badge/hackerearth-purple.svg)](https://www.hackerearth.com/@davide12)	
 
-
-# Statistics #
-
-![Davide Pollicino github stats](https://github-readme-stats.vercel.app/api?username=omonimus1&show_icons=true&theme=tokyonight)
-<p align="left"><img src="https://komarev.com/ghpvc/?username=omonimus1" alt="omonimus1" /> </p>
-<br>
-
 # Most Used Languages #
 
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=omonimus1&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
@@ -35,46 +28,6 @@
 
 # Portfolio Website #
 [![Portfolio Website](https://img.shields.io/badge/davide%20pollicino-Portfolio%20website-yellow)](https://omonimus1.github.io/Portfolio/)
-
-# Skills #
-
-- Back-End -
-![C++](https://img.shields.io/badge/C++%20-black.svg)
-![Python](https://img.shields.io/badge/Python%20-blue.svg)
-![Java](https://img.shields.io/badge/Java%20-orange.svg)
-
-- Front-End -
-![HTML](https://img.shields.io/badge/HTML%20-red.svg)
-![CSS](https://img.shields.io/badge/CSS%20-purple.svg)
-![JavaScript](https://img.shields.io/badge/Javascript%20-orange.svg)
-
-- Databases -
-![MYSQL](https://img.shields.io/badge/MySQL%20-blue.svg)
-![MongoDB](https://img.shields.io/badge/MongoDB%20-green.svg)
-
-- Frameworks -
-![Bootstrap](https://img.shields.io/badge/Bootstrap%20-purple.svg)
-![Materialize](https://img.shields.io/badge/Materialize%20-coral.svg)
-![Django](https://img.shields.io/badge/Django%20-green.svg)
-
-- Tools -
-![Git](https://img.shields.io/badge/Git%20-gray.svg)
-![Travis](https://img.shields.io/badge/Travis%20-yellow.svg)
-![Docker](https://img.shields.io/badge/Docker%20-blue.svg)
-
-
-
-- Operating system-
-![Windows](https://img.shields.io/badge/WINDOWS%20-blue.svg)
-![Linux](https://img.shields.io/badge/Linux%20-gray.svg)
-
-
-- Agile Methodologies -
-![SCRUM](https://img.shields.io/badge/SCRUM%20-blue.svg)
-
-- Software Design -
-![Flowcharts](https://img.shields.io/badge/FLowCharts%20-yellow.svg) 
-![UML DIAGRAMS](https://img.shields.io/badge/UML-diagrams%20-green.svg) 
 
 
 - 📫 How to reach me: **You can find me also on [Linkedln](https://www.linkedin.com/in/davidepollicino7/)** or 💌Mail me [davidepollicino2015@gmail.com]()
