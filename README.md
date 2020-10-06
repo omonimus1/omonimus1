@@ -1,7 +1,9 @@
 <h1 align="center"> Hi there 👋, Welcome to my GitHub Profile<br/> </h1> 
+
 * Computer Science Student at Edinburgh Napier University (UK) 🎓.
 * Microsoft **Student Learn Ambassador** - GeeksForGeeks **Campus Ambassador** - **Team Lead** at NDWebSolutions - **Competitive Coder**. 
 * My area of interestes are: Algorithms and Data Structures, Cloud Computing, Machine Learning, and operating systems, web development. 
+
 # Competitive Coding Profile #
 
 [![Hackerrank](https://img.shields.io/badge/-hackerrank-7cfc00?style=flat&labelColor=7cfc00&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/davidepollicino1)	
