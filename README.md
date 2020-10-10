@@ -1,6 +1,7 @@
 <h1 align="center"> Hi there 👋, Welcome to my GitHub Profile<br/> </h1> 
 
 * Computer Science Student at Edinburgh Napier University (UK) 🎓.
+* Team Lead at NDWebSolutions.
 * Microsoft **Student Learn Ambassador** - GeeksForGeeks **Campus Ambassador** - **Team Lead** at NDWebSolutions - **Competitive Coder**. 
 * My area of interestes are: Algorithms and Data Structures, Cloud Computing, Machine Learning, and operating systems, web development. 
 
