@@ -2,7 +2,7 @@
 
 * Computer Science Student at Edinburgh Napier University (UK) 🎓.
 * Team Lead at NDWebSolutions.
-* Microsoft **Student Learn Ambassador** - GeeksForGeeks **Campus Ambassador** - **Competitive Coder**. 
+* Microsoft [Student Learn Ambassador](https://studentambassadors.microsoft.com/profile/50889) - GeeksForGeeks [Campus Ambassador](https://auth.geeksforgeeks.org/user/davidepollicino/practice/) - **Competitive Coder**. 
 * My area of interestes are: Algorithms and Data Structures, Cloud Computing, Machine Learning, operating systems,and web development. 
 
 # Competitive Coding Profile #
