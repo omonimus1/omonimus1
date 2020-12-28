@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋, Welcome to my GitHub Profile<br/> </h1> 
 
 * Computer Science Student at Edinburgh Napier University (UK) 🎓.
-* Team Lead at NDWebSolutions.
+* Team Lead at NDWebSolution and Incoming SWE intern at Microsoft for the summer 2021.
 * Microsoft [Student Learn Ambassador](https://studentambassadors.microsoft.com/profile/50889) - GeeksForGeeks [Campus Ambassador](https://auth.geeksforgeeks.org/user/davidepollicino/practice/) - **Competitive Coder**. 
 * My area of interestes are: Algorithms and Data Structures, Cloud Computing, Machine Learning, operating systems,and web development. 
 
