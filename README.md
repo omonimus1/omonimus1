@@ -1,7 +1,8 @@
-<h1 align="center"> Hi there 👋, Welcome to my GitHub Profile<br/> </h1> 
+<h1 align="center"> Hi there 👋, it's great to have you here!<br/> </h1> 
 
+Few info about me: 
 * Computer Science Student at Edinburgh Napier University (UK) 🎓.
-* Team Lead at NDWebSolution and Incoming SWE intern at Microsoft for the summer 2021.
+* Team Lead at NDWebSolution and Incoming SWE intern at **Microsoft** for the summer 2021.
 * Microsoft [Student Learn Ambassador](https://studentambassadors.microsoft.com/profile/50889) - GeeksForGeeks [Campus Ambassador](https://auth.geeksforgeeks.org/user/davidepollicino/practice/) - **Competitive Coder**. 
 * My area of interestes are: Algorithms and Data Structures, Cloud Computing, Machine Learning, operating systems,and web development. 
 
@@ -16,8 +17,14 @@
 [![Hackerearth](https://img.shields.io/badge/hackerearth-purple.svg)](https://www.hackerearth.com/@davide12)	
 
 ## Currently working on:
-* Second version of my **personal website**
-* **drinkable.com** , a web app that will allow any user to find the closest drinkable public fountains (In Italy), in according to the user position or in according to an address or city provided by the user; 
+* **drinkable.com** , a web app that will allow any user to find the closest drinkable public fountains (In Italy).
+* **BeautyGo**: web-app that allows you to search for closest beauty Shop near you. 
+
+## Currently learning:
+* **Flusk**
+
+## The after-dinner
+I really enjoy to listen Alessandro Babero, one of the most famous and popular italian historical researcher. I am very courios about the past, I love to understand the reasons behind any kind of social, economica and scientific evolution. ```If you know the past, if you will understand better the present, and predict the future.```
 
 # Connect with me #
 You can contact me using my [![Portfolio Website](https://img.shields.io/badge/davide%20pollicino-Portfolio%20website-yellow)](davidepollicino.com)
