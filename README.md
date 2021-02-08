@@ -21,7 +21,8 @@ Few info about me:
 * **BeautyGo**: web-app that allows you to search for closest beauty Shop near you. 
 
 ## Currently learning:
-* **Flusk**
+* **Flask**
+* **Flutter**
 
 ## The after-dinner
 I really enjoy to listen Alessandro Babero, one of the most famous and popular italian historical researcher. I am very courios about the past, I love to understand the reasons behind any kind of social, economica and scientific evolution. ```If you know the past, you will understand better the present, and predict the future.```
