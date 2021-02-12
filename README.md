@@ -17,7 +17,7 @@ Few info about me:
 [![Hackerearth](https://img.shields.io/badge/hackerearth-purple.svg)](https://www.hackerearth.com/@davide12)	
 
 ## Currently working on:
-* **drinkable.com** , a web app that will allow any user to find the closest drinkable public fountains (In Italy).
+* **drinkable.com** , a web app that will allow any user to find the closest free  water public fountain (In Italy).
 * **BeautyGo**: web-app that allows you to search for closest beauty Shop near you. 
 
 ## Currently learning:
