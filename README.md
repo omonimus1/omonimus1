@@ -25,7 +25,7 @@ Few info about me:
 * **Flutter**
 
 ## The after-dinner
-I really enjoy to listen Alessandro Babero, one of the most famous and popular italian historical researcher. I am very courios about the past, I love to understand the reasons behind any kind of social, economica and scientific evolution. ```If you know the past, you will understand better the present, and predict the future.```
+I really enjoy to listen Alessandro Barbero,my favourite Italian historian. I am very courios about the past, I love to understand the reasons behind any kind of social, economica and scientific evolution. ```If you know the past, you will understand better the present, and maybe predict the future.```
 
 # Connect with me #
 You can contact me using my [![Portfolio Website](https://img.shields.io/badge/davide%20pollicino-Portfolio%20website-yellow)](davidepollicino.com)
