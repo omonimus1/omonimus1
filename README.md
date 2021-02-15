@@ -16,16 +16,10 @@ Few info about me:
 [![CodeForces](https://img.shields.io/badge/-CodeForces-ec6161?style=flat&labelColor=ec6161&logo=CodeForces&logoColor=white)](https://codeforces.com/profile/Davide_Pollicino)	
 [![Hackerearth](https://img.shields.io/badge/hackerearth-purple.svg)](https://www.hackerearth.com/@davide12)	
 
-## Currently working on:
-* **drinkable.com** , a web app that will allow any user to find the closest free  water public fountain (In Italy).
-* **BeautyGo**: web-app that allows you to search for closest beauty Shop near you. 
 
 ## Currently learning:
 * **Flask**
 * **Flutter**
-
-## The after-dinner
-I really enjoy to listen Alessandro Barbero,my favourite Italian historian. I am very courios about the past, I love to understand the reasons behind any kind of social, economica and scientific evolution. ```If you know the past, you will understand better the present, and maybe predict the future.```
 
 # Connect with me #
 You can contact me using my [![Portfolio Website](https://img.shields.io/badge/davide%20pollicino-Portfolio%20website-yellow)](davidepollicino.com)
