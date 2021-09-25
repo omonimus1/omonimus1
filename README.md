@@ -2,7 +2,7 @@
 
 Few info about me: 
 * Computer Science Student at Edinburgh Napier University (UK) 🎓.
-* SWE intern at **Microsoft** for the summer 2021.
+* SWE intern at **Microsoft** for the summer 2021. I have been in Teams for Life (also known as Teams2), being part of the Teams Notification Teams. 
 * Microsoft [Student Learn Ambassador](https://studentambassadors.microsoft.com/profile/50889) - GeeksForGeeks [Campus Ambassador](https://auth.geeksforgeeks.org/user/davidepollicino/practice/) - **Competitive Coder**. 
 * My area of interestes are: Algorithms and Data Structures, Cloud Computing, Machine Learning, operating systems,and web development. 
 
