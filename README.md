@@ -5,7 +5,7 @@ Key points about Davide:
 * Summer 2021 Software Enginner Inter *@Microsoft.*, ex Tech Lead and Software Enginner at NDWebSolutions, Board Member at Potato Ltd. 🧑🏻‍💻
 * His area of interestes are: Deep Learning, Cloud Computing, Web Development. 🔥
 * He strongly believes in team playing, clear and honest comunication, independently from levels withing the organization.  ⚖️
-* Favourite film: [Piccolo Cinema Paradiso](https://thenerdcorps.com/2020/03/25/cinema-paradiso-a-timeless-80s-italian-classic/) 🎬
+* Favourite film: [Piccolo Cinema Paradiso](https://thenerdcorps.com/2020/03/25/cinema-paradiso-a-timeless-80s-italian-classic/) (Small Cinema Paradise) 🎬
 
 # Competitive Coding Profile #
 [![Hackerrank](https://img.shields.io/badge/-hackerrank-7cfc00?style=flat&labelColor=7cfc00&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/davidepollicino1)	
