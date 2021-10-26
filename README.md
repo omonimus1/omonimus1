@@ -1,10 +1,11 @@
 <h1 align="center"> Hi there 👋, it's great to have you here!<br/> </h1> 
 
-Few info about me: 
-* Computer Science Student at Edinburgh Napier University (UK) 🎓.
-* SWE intern at **Microsoft** for the summer 2021. I have been working Teams for Life (also known as Teams2), being part of the Teams Notification Teams. 
-* Microsoft [Student Learn Ambassador](https://studentambassadors.microsoft.com/profile/50889) - GeeksForGeeks [Campus Ambassador](https://auth.geeksforgeeks.org/user/davidepollicino/practice/) - **Competitive Coder**. 
-* My area of interestes are: Algorithms and Data Structures, Cloud Computing, Machine Learning, operating systems,and web development. 
+Key points about Davide: 
+* Computer Science student at Edinburgh Napier University (UK). 🎓.
+* Summer 2021 Software Enginner Inter *@Microsoft.*, ex Tech Lead and Software Enginner at NDWebSolutions, Board Member at Potato Ltd. 🧑🏻‍💻
+* His area of interestes are: Deep Learning, Cloud Computing, Web Development. 🔥
+* He strongly believes in team playing, clear and honest comunication, independently from levels withing the organization.  ⚖️
+* Favourite film: [Piccolo Cinema Paradiso](https://thenerdcorps.com/2020/03/25/cinema-paradiso-a-timeless-80s-italian-classic/) 🎬
 
 # Competitive Coding Profile #
 [![Hackerrank](https://img.shields.io/badge/-hackerrank-7cfc00?style=flat&labelColor=7cfc00&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/davidepollicino1)	
@@ -17,5 +18,5 @@ Few info about me:
 [![Hackerearth](https://img.shields.io/badge/hackerearth-purple.svg)](https://www.hackerearth.com/@davide12)	
 
 
-# Connect with me #
+# Let's Connect #
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davidepollicino7/)
