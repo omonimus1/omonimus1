@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋, it is great to have you here!<br/> </h1> 
+<h1 align="center"> Hi 👋, it is great to have you here!<br/> </h1> 
 
 Key points about Davide: 
 * Computer Science student at Edinburgh Napier University (UK). 🎓.
