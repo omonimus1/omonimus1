@@ -2,7 +2,7 @@
 
 Key points about Davide: 
 * Computer Science student at Edinburgh Napier University (UK). 🎓.
-* Summer 2021 Software Enginner Inter *@Microsoft.*, ex Tech Lead and Software Enginner at NDWebSolutions, Board Member at Potato Ltd. 🧑🏻‍💻
+* Summer 2021 Software Enginner Inter *@Microsoft.*, ex Tech Lead and Software Enginner at NDWebSolutions 🧑🏻‍💻
 * His area of interestes are: Deep Learning, Cloud Computing, Web Development. 🔥
 * He strongly believes in team playing, clear and honest comunication, independently from levels withing the organization.  ⚖️
 * Favourite film: [Piccolo Cinema Paradiso](https://thenerdcorps.com/2020/03/25/cinema-paradiso-a-timeless-80s-italian-classic/) (Small Cinema Paradise) 🎬
