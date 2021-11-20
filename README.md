@@ -1,11 +1,19 @@
 <h1 align="center"> Hi 👋, it is great to have you here!<br/> </h1> 
 
-Key points about Davide: 
-* Computer Science student at Edinburgh Napier University (UK). 🎓.
-* Summer 2021 Software Enginner Inter *@Microsoft.*, ex Tech Lead and Software Enginner at NDWebSolutions 🧑🏻‍💻
-* His area of interestes are: Deep Learning, Cloud Computing, Web Development. 🔥
-* He strongly believes in team playing, clear and honest comunication, independently from levels withing the organization.  ⚖️
-* Favourite film: [Piccolo Cinema Paradiso](https://thenerdcorps.com/2020/03/25/cinema-paradiso-a-timeless-80s-italian-classic/) (Small Cinema Paradise) 🎬
+---
+
+```python
+class Davide:
+  def __init__(self):
+    self.name = 'Davide'
+    self.surname = 'Pollicino'
+    self.education = ['CS Edinburgh Napier University']
+    self.experience = ['PM at Potato LTD', 'ex Microsoft SWE Intern', 'ex PM @NDWebSolutions']
+    self.interests = ['NLP','CV', 'Cloud Computing', 'Web Development',  'Finance']
+    self.hobbies = ['Biking','Reading']
+    self.favourite_movive = ['Piccolo Cinema Paradiso']
+```
+
 
 # Competitive Coding Profile #
 [![Hackerrank](https://img.shields.io/badge/-hackerrank-7cfc00?style=flat&labelColor=7cfc00&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/davidepollicino1)	
