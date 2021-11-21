@@ -11,7 +11,7 @@ class Davide:
     self.experience = ['PM at Potato LTD', 'ex Microsoft SWE Intern', 'ex PM @NDWebSolutions']
     self.interests = ['NLP','CV', 'Cloud Computing', 'Web Development',  'Finance']
     self.hobbies = ['Biking','Reading']
-    self.favourite_movive = ['Piccolo Cinema Paradiso']
+    self.favourite_movie = ['Piccolo Cinema Paradiso']
 ```
 
 
