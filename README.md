@@ -3,7 +3,7 @@
 ---
 
 ```python
-class Davide:
+class Person:
   def __init__(self):
     self.name = 'Davide'
     self.surname = 'Pollicino'
