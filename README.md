@@ -2,17 +2,12 @@
 
 ---
 
-```python
-class Person:
-  def __init__(self):
-    self.name = 'Davide'
-    self.surname = 'Pollicino'
-    self.education = ['CS Edinburgh Napier University']
-    self.experience = ['PM at Potato LTD', 'ex Microsoft SWE Intern', 'ex PM @NDWebSolutions']
-    self.interests = ['NLP','CV', 'Cloud Computing', 'Web Development',  'Finance']
-    self.hobbies = ['Biking','Reading']
-    self.favourite_movie = ['Piccolo Cinema Paradiso']
-```
+
+* Computer Science student at Edinburgh Napier University (UK). 🎓.
+* PM @Potato Mobile LTD, Lab Assistant @Edinburgh Napier University, Ex SWE intern @Microsoft, ex Tech Lead at NDWebSolutions 🧑🏻‍💻
+* His area of interestes are: Deep Learning, Cloud Computing, Web Development. 🔥
+* He strongly believes in team playing, clear and honest comunication, independently from levels withing the organization. ⚖️
+* Favourite film: Piccolo Cinema Paradiso (Small Cinema Paradise) 🎬
 
 
 # Competitive Coding Profile #
@@ -28,3 +23,8 @@ class Person:
 
 # Let's Connect #
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davidepollicino7/)
+
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@davidepollicino) 
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email@example.com)
+
