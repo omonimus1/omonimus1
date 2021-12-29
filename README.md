@@ -9,6 +9,14 @@
 * He strongly believes in team playing, clear and honest comunication, independently from levels withing the organization. ⚖️
 * Favourite film: Piccolo Cinema Paradiso (Small Cinema Paradise) 🎬
 
+# Let's Connect #
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davidepollicino7/)
+
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@davidepollicino) 
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email@example.com)
+
+OR, visit see my Portfolio [https://omonimus1.github.io/personal-website/](https://omonimus1.github.io/personal-website/)
 
 # Competitive Coding Profile #
 [![Hackerrank](https://img.shields.io/badge/-hackerrank-7cfc00?style=flat&labelColor=7cfc00&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/davidepollicino1)	
@@ -20,11 +28,4 @@
 [![CodeForces](https://img.shields.io/badge/-CodeForces-ec6161?style=flat&labelColor=ec6161&logo=CodeForces&logoColor=white)](https://codeforces.com/profile/Davide_Pollicino)	
 [![Hackerearth](https://img.shields.io/badge/hackerearth-purple.svg)](https://www.hackerearth.com/@davide12)	
 
-
-# Let's Connect #
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davidepollicino7/)
-
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@davidepollicino) 
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email@example.com)
 
