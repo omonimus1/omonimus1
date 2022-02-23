@@ -16,8 +16,6 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email@example.com)
 
-OR, visit see my Portfolio [https://omonimus1.github.io/personal-website/](https://omonimus1.github.io/personal-website/)
-
 # Competitive Coding Profile #
 [![Hackerrank](https://img.shields.io/badge/-hackerrank-7cfc00?style=flat&labelColor=7cfc00&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/davidepollicino1)	
 [![InterViewBit](https://img.shields.io/badge/-Interviewbit-87ceeb?style=flat&labelColor=87ceeb&logo=Interviewbit&logoColor=white)](https://www.interviewbit.com/profile/omonimus1)
