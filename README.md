@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋, it is great to have you here!<br/> </h1> 
 
-<h3 align="center">a passionate software engineer based in UK</h3>
+<!-- <h3 align="center">a passionate software engineer based in UK</h3> -->
 
 - 🔭 I’m currently working on [building the next messanging application](https://www.linkedin.com/company/getbuzzuk/about/)
 
