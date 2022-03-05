@@ -13,8 +13,13 @@
 - 📫 How to reach me **davidepollicino2015@gmail.com**
 
 - ⚖️ I strongly believes in team playing, clear and transparent comunication, independently from levels withing the organization. 
+
 - 🧑🏻‍💻 Ex SWE intern [@Microsoft](https://github.com/microsoft/), Lab Assistant @Edinburgh Napier University, ex Tech Lead at NDWebSolutions, PM @BuzzUk, Incoming SWE [@Microsoft](https://github.com/microsoft/)
+
+- 🫂 Member of [LeadTheFuture](https://leadthefuture.tech/)
+
 - 🎬  Favourite film: Piccolo Cinema Paradiso (Small Cinema Paradise) 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
