@@ -20,7 +20,6 @@
 
 - 🎬  Favourite film: Piccolo Cinema Paradiso (Small Cinema Paradise) 
 
-
 # Competitive Coding Profile #
 [![Hackerrank](https://img.shields.io/badge/-hackerrank-7cfc00?style=flat&labelColor=7cfc00&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/davidepollicino1)	
 [![InterViewBit](https://img.shields.io/badge/-Interviewbit-87ceeb?style=flat&labelColor=87ceeb&logo=Interviewbit&logoColor=white)](https://www.interviewbit.com/profile/omonimus1)
