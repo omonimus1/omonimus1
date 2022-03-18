@@ -2,13 +2,13 @@
 <h3 align="center">Few words about me </h3>
 
 - 🔭 CS Student and Product Manager at [getbuzz.uk/](http://getbuzz.uk/),  building the next messaging application.
-- 🧑🏻‍💻 Ex SWE intern [@Microsoft](https://github.com/microsoft/), Lab Assistant [Edinburgh Napier University](https://www.napier.ac.uk/), ex Tech Lead at NDWebSolutions.
+- 🧑🏻‍💻 Ex SWE intern [@Microsoft](https://github.com/microsoft/), Lab Assistant at [Edinburgh Napier University](https://www.napier.ac.uk/), ex Tech Lead at NDWebSolutions.
 - 🤝 I’m looking for SWEs to join us at [BuzzUK](https://www.linkedin.com/company/getbuzzuk/about/)
-- 📝 I often write articles on [https://medium.com/@davidepollicino](https://medium.com/@davidepollicino)
-- 📫 How to reach me **davidepollicino2015@gmail.com**
-- 🎬  Favourite film: Piccolo Cinema Paradiso (Small Cinema Paradise)
+- 📝 I often write articles on [medium](https://davidepollicino.medium.com/)
+- 📫 Getin touch at **davidepollicino2015@gmail.com**
+- 🎬  Favorite film: [Piccolo Cinema Paradiso (Small Cinema Paradise)](https://en.wikipedia.org/wiki/Cinema_Paradiso)
 
-# Experienced in startups environments #
+# Experienced in startups environment #
 
 * [Getbuzz.uk](href="http://getbuzz.uk/): building next messaging application
 * [Beautygo.it](https://beautygo.it/): booking system for beauty services offered by hair stylists, barber shops and beauty salons in Italy.
@@ -28,7 +28,6 @@ after have found your new home!
 * [FrontOfClass.co.uk](https://frontofclass.co.uk/): Leading recruiting company for education in the United Kingdom. 
 * [Lesentenze.it](https://www.lesentenze.it/): Leading italian source for court legal sentences view, with over 1 millions of montly
 sentences searches. 
-
 
 <a href="https://frontofclass.co.uk/" target="blank">
     <img src="images/infrontofclass.png" alt="Frontofclass" height="140" width="190" />
