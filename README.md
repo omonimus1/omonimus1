@@ -3,22 +3,17 @@
 
 - 🔭 CS Student and Product Manager at [getbuzz.uk/](http://getbuzz.uk/),  building the next messaging application.
 - 🧑🏻‍💻 Ex SWE intern [@Microsoft](https://github.com/microsoft/), Lab Assistant [Edinburgh Napier University](https://www.napier.ac.uk/), ex Tech Lead at NDWebSolutions.
-- 🤝 I’m looking for SWE to join us at [BuzzUK](https://www.linkedin.com/company/getbuzzuk/about/)
+- 🤝 I’m looking for SWEs to join us at [BuzzUK](https://www.linkedin.com/company/getbuzzuk/about/)
 - 📝 I often write articles on [https://medium.com/@davidepollicino](https://medium.com/@davidepollicino)
 - 📫 How to reach me **davidepollicino2015@gmail.com**
-- ⚖️ I strongly believe in team playing, clear and transparent communication, independently of levels withing the organization. 
 - 🎬  Favourite film: Piccolo Cinema Paradiso (Small Cinema Paradise)
 
-# Startup I have collaborated with as Software Engineer or Product Manager #
+# Startup funding and growth, collaborating as Product Manager and Software Engineer #
 
 * [Getbuzz.uk](href="http://getbuzz.uk/): building next messaging application
 * [Beautygo.it](https://beautygo.it/): booking system for beauty services offered by hair stylists, barber shops and beauty salons in Italy.
 * [icoinqui.it](https://icoinqui.it/): real-estate renting platform that allows to review both landlord and flatmates, 
 after have found your new home!
-* [FrontOfClass.co.uk](https://frontofclass.co.uk/): Leading recruiting company for education in the United Kingdom. 
-* [Lesentenze.it](https://www.lesentenze.it/): Leading italian source for court legal sentences view, with over 1 millions of montly
-sentences searches. 
-
 <a href="http://getbuzz.uk/" target="blank">
     <img src="images/getbuzz.png" alt="GetBuzz" height="140" width="190" />
 </a> 
@@ -28,6 +23,13 @@ sentences searches.
 <a href="https://icoinqui.it/" target="blank">
     <img src="images/icoinqui.png" alt="Icoinqui" height="140" width="190" />
 </a> 
+
+# Company rebranding, product maintenance and growth operations #
+* [FrontOfClass.co.uk](https://frontofclass.co.uk/): Leading recruiting company for education in the United Kingdom. 
+* [Lesentenze.it](https://www.lesentenze.it/): Leading italian source for court legal sentences view, with over 1 millions of montly
+sentences searches. 
+
+
 <a href="https://frontofclass.co.uk/" target="blank">
     <img src="images/infrontofclass.png" alt="Frontofclass" height="140" width="190" />
 </a> 
