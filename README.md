@@ -8,7 +8,7 @@
 - 📫 How to reach me **davidepollicino2015@gmail.com**
 - 🎬  Favourite film: Piccolo Cinema Paradiso (Small Cinema Paradise)
 
-# Experienced in startups environments#
+# Experienced in startups environments #
 
 * [Getbuzz.uk](href="http://getbuzz.uk/): building next messaging application
 * [Beautygo.it](https://beautygo.it/): booking system for beauty services offered by hair stylists, barber shops and beauty salons in Italy.
