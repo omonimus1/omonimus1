@@ -9,14 +9,15 @@
 - ⚖️ I strongly believe in team playing, clear and transparent communication, independently of levels withing the organization. 
 - 🎬  Favourite film: Piccolo Cinema Paradiso (Small Cinema Paradise)
 
-# Startup companies I have collaborated with #
-* [Getbuzz.uk](href="http://getbuzz.uk/"): building next messaging application
-* [Beautygo.it](https://beautygo.it/"): booking system for beauty services
-* [icoinqui.it](https://icoinqui.it/"): real-estate renting platform that allows to review both landlord and flatmates, 
-after have found your found. 
-* [FrontOfClass.co.uk](https://frontofclass.co.uk/"): Leading recruiting company for education in the United Kingdom. 
-* [Lesentenze.it](https://www.lesentenze.it/"): Leading italian website for legal sentences view, with over 1 millions of montly
-internal searches. 
+# Startup I have collaborated with as Software Engineer or Product Manager #
+
+* [Getbuzz.uk](href="http://getbuzz.uk/): building next messaging application
+* [Beautygo.it](https://beautygo.it/): booking system for beauty services offered by hair stylists, barber shops and beauty salons in Italy.
+* [icoinqui.it](https://icoinqui.it/): real-estate renting platform that allows to review both landlord and flatmates, 
+after have found your new home!
+* [FrontOfClass.co.uk](https://frontofclass.co.uk/): Leading recruiting company for education in the United Kingdom. 
+* [Lesentenze.it](https://www.lesentenze.it/): Leading italian source for court legal sentences view, with over 1 millions of montly
+sentences searches. 
 
 <a href="http://getbuzz.uk/" target="blank">
     <img src="images/getbuzz.png" alt="GetBuzz" height="120" width="170" />
