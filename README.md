@@ -20,19 +20,19 @@ after have found your new home!
 sentences searches. 
 
 <a href="http://getbuzz.uk/" target="blank">
-    <img src="images/getbuzz.png" alt="GetBuzz" height="120" width="170" />
+    <img src="images/getbuzz.png" alt="GetBuzz" height="140" width="190" />
 </a> 
 <a href="https://beautygo.it/" target="blank">
-    <img src="images/beautygo.png" alt="BeautyGo" height="120" width="170" />
+    <img src="images/beautygo.png" alt="BeautyGo" height="140" width="190" />
 </a> 
 <a href="https://icoinqui.it/" target="blank">
-    <img src="images/icoinqui.png" alt="Icoinqui" height="120" width="170" />
+    <img src="images/icoinqui.png" alt="Icoinqui" height="140" width="190" />
 </a> 
 <a href="https://frontofclass.co.uk/" target="blank">
-    <img src="images/infrontofclass.png" alt="Frontofclass" height="120" width="170" />
+    <img src="images/infrontofclass.png" alt="Frontofclass" height="140" width="190" />
 </a> 
 <a href="https://www.lesentenze.it/" target="blank">
-    <img src="images/lesenteze.png" alt="LeSentenze.it" height="120" width="170" />
+    <img src="images/lesenteze.png" alt="LeSentenze.it" height="140" width="190" />
 </a>
 
 # Competitive Coding Profile #
@@ -45,8 +45,9 @@ sentences searches.
 [![CodeForces](https://img.shields.io/badge/-CodeForces-ec6161?style=flat&labelColor=ec6161&logo=CodeForces&logoColor=white)](https://codeforces.com/profile/Davide_Pollicino)	
 [![Hackerearth](https://img.shields.io/badge/hackerearth-purple.svg)](https://www.hackerearth.com/@davide12)	
 
-# Let's Connect #
-[![Connect on Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davidepollicino7/)
+# Connect with me #
+
+<a href="https://linkedin.com/in/davidepollicino7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davidepollicino7/" height="60" width="60" /></a>  <a href="https://davidepollicino.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="davidepollicino" height="60" width="60" /></a>
 
 
 
