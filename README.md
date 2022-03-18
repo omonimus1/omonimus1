@@ -26,7 +26,7 @@ after have found your new home!
 
 # Company rebranding, product maintenance and growth operations #
 * [FrontOfClass.co.uk](https://frontofclass.co.uk/): Leading recruiting company for education in the United Kingdom. 
-* [Lesentenze.it](https://www.lesentenze.it/): Leading italian source for court legal sentences view, with over 1 millions of montly
+* [Lesentenze.it](https://www.lesentenze.it/): Leading italian source for court legal sentences view, with over **one million** of montly
 sentences searches. 
 
 <a href="https://frontofclass.co.uk/" target="blank">
