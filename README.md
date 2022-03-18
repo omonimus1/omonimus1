@@ -1,24 +1,38 @@
 <h1 align="center"> Hi 👋, it is great to have you here!<br/> </h1> 
+<h3 align="center">Few words about me </h3>
 
-<!-- <h3 align="center">a passionate software engineer based in UK</h3> -->
-
-- 🔭 I’m currently working on [building the next messanging application](https://www.linkedin.com/company/getbuzzuk/about/)
-
-- 🌱 I’m currently learning **DevOps**
-
+- 🔭 CS Student and Product Manager at [getbuzz.uk/](http://getbuzz.uk/),  building the next messaging application.
+- 🧑🏻‍💻 Ex SWE intern [@Microsoft](https://github.com/microsoft/), Lab Assistant [Edinburgh Napier University](https://www.napier.ac.uk/), ex Tech Lead at NDWebSolutions.
 - 🤝 I’m looking for SWE to join us at [BuzzUK](https://www.linkedin.com/company/getbuzzuk/about/)
-
 - 📝 I often write articles on [https://medium.com/@davidepollicino](https://medium.com/@davidepollicino)
-
 - 📫 How to reach me **davidepollicino2015@gmail.com**
+- ⚖️ I strongly believe in team playing, clear and transparent communication, independently of levels withing the organization. 
+- 🎬  Favourite film: Piccolo Cinema Paradiso (Small Cinema Paradise)
 
-- ⚖️ I strongly believes in team playing, clear and transparent comunication, independently from levels withing the organization. 
+# Startup companies I have collaborated with #
+* [Getbuzz.uk](href="http://getbuzz.uk/"): building next messaging application
+* [Beautygo.it](https://beautygo.it/"): booking system for beauty services
+* [icoinqui.it](https://icoinqui.it/"): real-estate renting platform that allows to review both landlord and flatmates, 
+after have found your found. 
+* [FrontOfClass.co.uk](https://frontofclass.co.uk/"): Leading recruiting company for education in the United Kingdom. 
+* [Lesentenze.it](https://www.lesentenze.it/"): Leading italian website for legal sentences view, with over 1 millions of montly
+internal searches. 
 
-- 🧑🏻‍💻 Ex SWE intern [@Microsoft](https://github.com/microsoft/), Lab Assistant @Edinburgh Napier University, ex Tech Lead at NDWebSolutions, PM @BuzzUk, Incoming SWE [@Microsoft](https://github.com/microsoft/)
-
-- 🫂 Member of [LeadTheFuture](https://leadthefuture.tech/)
-
-- 🎬  Favourite film: Piccolo Cinema Paradiso (Small Cinema Paradise) 
+<a href="http://getbuzz.uk/" target="blank">
+    <img src="images/getbuzz.png" alt="GetBuzz" height="120" width="170" />
+</a> 
+<a href="https://beautygo.it/" target="blank">
+    <img src="images/beautygo.png" alt="BeautyGo" height="120" width="170" />
+</a> 
+<a href="https://icoinqui.it/" target="blank">
+    <img src="images/icoinqui.png" alt="Icoinqui" height="120" width="170" />
+</a> 
+<a href="https://frontofclass.co.uk/" target="blank">
+    <img src="images/infrontofclass.png" alt="Frontofclass" height="120" width="170" />
+</a> 
+<a href="https://www.lesentenze.it/" target="blank">
+    <img src="images/lesenteze.png" alt="LeSentenze.it" height="120" width="170" />
+</a>
 
 # Competitive Coding Profile #
 [![Hackerrank](https://img.shields.io/badge/-hackerrank-7cfc00?style=flat&labelColor=7cfc00&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/davidepollicino1)	
@@ -30,9 +44,8 @@
 [![CodeForces](https://img.shields.io/badge/-CodeForces-ec6161?style=flat&labelColor=ec6161&logo=CodeForces&logoColor=white)](https://codeforces.com/profile/Davide_Pollicino)	
 [![Hackerearth](https://img.shields.io/badge/hackerearth-purple.svg)](https://www.hackerearth.com/@davide12)	
 
-
 # Let's Connect #
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davidepollicino7/)
+[![Connect on Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davidepollicino7/)
 
 
 
