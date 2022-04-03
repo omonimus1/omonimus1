@@ -5,8 +5,8 @@
 - 🧑🏻‍💻 Ex SWE intern [@Microsoft](https://github.com/microsoft/), Lab Assistant at [Edinburgh Napier University](https://www.napier.ac.uk/), ex Tech Lead at NDWebSolutions.
 - 🤝 I’m looking for SWEs to join us at [BuzzUK](https://www.linkedin.com/company/getbuzzuk/about/)
 - 📝 I often write articles on [medium](https://davidepollicino.medium.com/)
-- 📫 Getin touch at **davidepollicino2015@gmail.com**
-- 🎬  Favorite film: [Piccolo Cinema Paradiso (Small Cinema Paradise)](https://en.wikipedia.org/wiki/Cinema_Paradiso)
+- 📫 Get in touch at **davidepollicino2015@gmail.com**, or connect with me on [linkedin](https://www.linkedin.com/in/davidepollicino7/)
+- 🎬 Favorite film: [Piccolo Cinema Paradiso (Small Cinema Paradise)](https://en.wikipedia.org/wiki/Cinema_Paradiso)
 
 # Experienced in startups environment #
 
