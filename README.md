@@ -1,14 +1,26 @@
 <h1 align="center"> Hi 👋, it is great to have you here!<br/> </h1> 
-<h3 align="center">Few words about me </h3>
 
-- 🔭 CS Student and Product Manager at [getbuzz.uk/](http://getbuzz.uk/),  building the next messaging application.
-- 🧑🏻‍💻 Ex SWE intern [@Microsoft](https://github.com/microsoft/), Lab Assistant at [Edinburgh Napier University](https://www.napier.ac.uk/), ex Tech Lead at NDWebSolutions.
-- 🤝 I’m looking for SWEs to join us at [BuzzUK](https://www.linkedin.com/company/getbuzzuk/about/)
-- 📝 I often write articles on [medium](https://davidepollicino.medium.com/)
-- 📫 Get in touch at **davidepollicino2015@gmail.com**, or connect with me on [linkedin](https://www.linkedin.com/in/davidepollicino7/)
-- 🎬 Favorite film: [Piccolo Cinema Paradiso (Small Cinema Paradise)](https://en.wikipedia.org/wiki/Cinema_Paradiso)
+## 🚀 About Me
 
-# Experienced in startups environment #
+🎓 I am Davide Pollicino, an Lab Assistant at [**Edinburgh Napier University**](https://www.napier.ac.uk/), incoming **Software Engineer at Microsoft** and **Software Engineer Manager** at [**Getbuzz**](http://getbuzz.uk/). I am also Pursuing my Bachelor in **Computer Science** and will graduate in mid-2022.
+
+🧑🏻‍💻 Ex SWE intern [@Microsoft](https://github.com/microsoft/), ex Tech Lead at NDWebSolutions.
+
+🤝 I’m looking for SWEs to join us at [BuzzUK](https://www.linkedin.com/company/getbuzzuk/about/)
+
+📝 I often write articles on [medium](https://davidepollicino.medium.com/)
+
+🎬 Favorite film: [Piccolo Cinema Paradiso (Small Cinema Paradise)](https://en.wikipedia.org/wiki/Cinema_Paradiso)
+
+## 🏅 Achievements
+- 🤝 Microsoft campus Ambassador (2021).
+- 🥇 1rst in GeeksForGeeks Edinburgh Napier University coding ranks. 
+- 🥷 GeeksForGeeks Campus Ambassador (2020). 
+- 🏆 1rst classified at regional level in National Competitive Programming in team, HBFS TEAM (Italy 2017-2018) 
+- ⭐ 28th Among 700+ teams in National Competitive Programming in team, HBFS TEAM (Italy 2016-2018)
+
+
+# Experienced in startups environment 
 
 * [Getbuzz.uk](href="http://getbuzz.uk/): building next messaging application
 * [Beautygo.it](https://beautygo.it/): booking system for beauty services offered by hair stylists, barber shops and beauty salons in Italy.
@@ -46,7 +58,7 @@ sentences searches.
 [![CodeForces](https://img.shields.io/badge/-CodeForces-ec6161?style=flat&labelColor=ec6161&logo=CodeForces&logoColor=white)](https://codeforces.com/profile/Davide_Pollicino)	
 [![Hackerearth](https://img.shields.io/badge/hackerearth-purple.svg)](https://www.hackerearth.com/@davide12)	
 
-# Connect with me #
+# 🔗 Links #
 
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/davidepollicino7/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/omonimus1)
