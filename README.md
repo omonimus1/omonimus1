@@ -22,7 +22,7 @@
 
 # Experienced in startups environment 
 
-* [Getbuzz.uk](href="http://getbuzz.uk/): building next messaging application
+* [Getbuzz.uk](http://getbuzz.uk/): building next messaging application
 * [Beautygo.it](https://beautygo.it/): booking system for beauty services offered by hair stylists, barber shops and beauty salons in Italy.
 * [icoinqui.it](https://icoinqui.it/): real-estate renting platform that allows to review both landlord and flatmates, 
 after have found your new home!
