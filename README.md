@@ -4,6 +4,8 @@
 
 🎓 I am Davide Pollicino, an Lab Assistant at [**Edinburgh Napier University**](https://www.napier.ac.uk/), incoming **Software Engineer at Microsoft** and **Software Engineer Manager** at [**Getbuzz**](http://getbuzz.uk/). I am also Pursuing my Bachelor in **Computer Science** and will graduate in mid-2022.
 
+Graduated at ITIS Vittorio Emanuele III (IT & Telecommunications school): 93% (A);
+
 🧑🏻‍💻 Ex SWE intern [@Microsoft](https://github.com/microsoft/), ex Tech Lead at NDWebSolutions.
 
 🤝 I’m looking for SWEs to join us at [BuzzUK](https://www.linkedin.com/company/getbuzzuk/about/)
@@ -11,13 +13,18 @@
 📝 I often write articles on [medium](https://davidepollicino.medium.com/)
 
 🎬 Favorite film: [Piccolo Cinema Paradiso (Small Cinema Paradise)](https://en.wikipedia.org/wiki/Cinema_Paradiso)
+<hr>
 
 ## 🏅 Achievements
-- 🤝 Microsoft campus Ambassador (2021).
-- 🥇 1rst in GeeksForGeeks Edinburgh Napier University coding ranks. 
-- 🥷 GeeksForGeeks Campus Ambassador (2020). 
-- 🏆 1rst classified at regional level in National Competitive Programming in team, HBFS TEAM (Italy 2017-2018) 
-- ⭐ 28th Among 700+ teams in National Competitive Programming in team, HBFS TEAM (Italy 2016-2018)
+ 🤝 Microsoft campus Ambassador (2021).
+ 
+ 🥇 1rst in GeeksForGeeks Edinburgh Napier University coding ranks. 
+ 
+ 🥷 GeeksForGeeks Campus Ambassador (2020). 
+ 
+ 🏆 1rst classified at regional level in National Competitive Programming in team, HBFS TEAM (Italy 2016-2017);
+ 
+ ⭐ 28th Among 700+ teams in National Competitive Programming in team, HBFS TEAM (Italy 2016-2017)
 
 
 # Experienced in startups environment 
