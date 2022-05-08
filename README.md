@@ -8,7 +8,7 @@ Graduated at ITIS Vittorio Emanuele III (IT & Telecommunications school): 93% (A
 
 🧑🏻‍💻 Ex SWE intern [@Microsoft](https://github.com/microsoft/), ex Tech Lead at NDWebSolutions.
 
-🤝 I’m looking for SWEs to join us at [BuzzUK](https://www.linkedin.com/company/getbuzzuk/about/)
+🤝 I’m looking for flutter developer, and Django developer to join us at BuzzUk, visit our [career website](https://getbuzzuk.notion.site/Buzz-Career-5ec923e938ea4f1da50f356f2c86312f).
 
 📝 I often write articles on [medium](https://davidepollicino.medium.com/)
 
@@ -20,7 +20,7 @@ Graduated at ITIS Vittorio Emanuele III (IT & Telecommunications school): 93% (A
  
  🥇 1rst in GeeksForGeeks Edinburgh Napier University coding ranks. 
  
- 🥷 GeeksForGeeks Campus Ambassador (2020). 
+ 💪GeeksForGeeks Campus Ambassador (2020). 
  
  🏆 1rst classified at regional level in National Competitive Programming in team, HBFS TEAM (Italy 2016-2017);
  
