@@ -15,6 +15,16 @@ Graduated at ITIS Vittorio Emanuele III (IT & Telecommunications school): 93% (A
 🎬 Favorite film: [Piccolo Cinema Paradiso (Small Cinema Paradise)](https://en.wikipedia.org/wiki/Cinema_Paradiso)
 <hr>
 
+# 🔗 Links #
+
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/davidepollicino7/)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/omonimus1)
+[![medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://davidepollicino.medium.com/)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:davidepollicino2015@gmail.com)
+[![davidepollicino.co.uk](https://img.shields.io/badge/davidepollicino.co.uk-26ae26?style=for-the-badge&logoColor=white)](https://davidepollicino.co.uk)
+
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/DavidePollicin.svg?style=social&label=Follow%20%40DavidePollicin)](https://twitter.com/DavidePollicin)
+
 ## 🏅 Achievements
  🤝 Microsoft campus Ambassador (2021).
  
@@ -65,11 +75,4 @@ sentences searches.
 [![CodeForces](https://img.shields.io/badge/-CodeForces-ec6161?style=flat&labelColor=ec6161&logo=CodeForces&logoColor=white)](https://codeforces.com/profile/Davide_Pollicino)	
 [![Hackerearth](https://img.shields.io/badge/hackerearth-purple.svg)](https://www.hackerearth.com/@davide12)	
 
-# 🔗 Links #
-
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/davidepollicino7/)
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/omonimus1)
-[![medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://davidepollicino.medium.com/)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:davidepollicino2015@gmail.com)
-[![davidepollicino.co.uk](https://img.shields.io/badge/davidepollicino.co.uk-26ae26?style=for-the-badge&logoColor=white)](https://davidepollicino.co.uk)
 
