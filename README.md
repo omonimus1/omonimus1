@@ -21,7 +21,6 @@ Graduated at ITIS Vittorio Emanuele III (IT & Telecommunications school): 93% (A
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/omonimus1)
 [![medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://davidepollicino.medium.com/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:davidepollicino2015@gmail.com)
-[![davidepollicino.co.uk](https://img.shields.io/badge/davidepollicino.co.uk-26ae26?style=for-the-badge&logoColor=white)](https://davidepollicino.co.uk)
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/DavidePollicin.svg?style=social&label=Follow%20%40DavidePollicin)](https://twitter.com/DavidePollicin)
 
 ## Book a mentorship session with me
