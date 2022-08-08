@@ -2,41 +2,25 @@
 
 ## 🚀 About Me
 
-🎓 I am Davide Pollicino, an Lab Assistant at [**Edinburgh Napier University**](https://www.napier.ac.uk/), incoming **Software Engineer at Microsoft** and **Software Engineer Manager** at [**Getbuzz**](http://getbuzz.uk/). I am also Pursuing my Bachelor in **Computer Science** and will graduate in mid-2022.
+🧑🏻‍💻 Incoming **Software Engineer** @Microsoft, **Product Manager** [@getbuzz](http://getbuzz.uk), **Mentor** [@mentorcruise](http://mentorcruise.com/mentor/davidepollicino/), **Technical writer** on [Medium](https://davidepollicino.medium.com/), Ex SWE intern [@Microsoft](https://github.com/microsoft/), ex Tech Lead at NDWebSolutions, Ex **Lab Assistant** @Edinburgh Napier University
 
-Graduated at ITIS Vittorio Emanuele III (IT & Telecommunications school): 93% (A);
-
-🧑🏻‍💻 Ex SWE intern [@Microsoft](https://github.com/microsoft/), ex Tech Lead at NDWebSolutions.
+🎓 **Graduated** in **Computer Science** at Edinburgh Napier university (2022).
 
 🤝 I’m looking for flutter developer, and Django developer to join us at BuzzUk, visit our [career website](https://getbuzzuk.notion.site/Buzz-Career-5ec923e938ea4f1da50f356f2c86312f).
-
-📝 I often write articles on [medium](https://davidepollicino.medium.com/)
 
 🎬 Favorite film: [Piccolo Cinema Paradiso (Small Cinema Paradise)](https://en.wikipedia.org/wiki/Cinema_Paradiso)
 <hr>
 
-# 🔗 Links #
-[Get my Linktree](https://linktr.ee/davidepollicino)
+# 🔗 Links  - [Get my Linktree](https://linktr.ee/davidepollicino) #
+
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/davidepollicino7/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/omonimus1)
 [![medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://davidepollicino.medium.com/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:davidepollicino2015@gmail.com)
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/DavidePollicin.svg?style=social&label=Follow%20%40DavidePollicin)](https://twitter.com/DavidePollicin)
 
-## Book a mentorship session with me
+## Apply for a mentorship session with me
 <a href="https://mentorcruise.com/mentor/davidepollicino/"> <img src="https://cdn.mentorcruise.com/img/banner/navy-sm.svg" width="240" alt="MentorCruise"> </a>
-
-## 🏅 Achievements
- 🤝 Microsoft campus Ambassador (2021).
- 
- 🥇 1rst in GeeksForGeeks Edinburgh Napier University coding ranks. 
- 
- 💪GeeksForGeeks Campus Ambassador (2020). 
- 
- 🏆 1rst classified at regional level in National Competitive Programming in team, HBFS TEAM (Italy 2016-2017);
- 
- ⭐ 28th Among 700+ teams in National Competitive Programming in team, HBFS TEAM (Italy 2016-2017)
-
 
 # Experienced in startups environment 
 
@@ -65,6 +49,18 @@ sentences searches.
 <a href="https://www.lesentenze.it/" target="blank">
     <img src="images/lesenteze.png" alt="LeSentenze.it" height="140" width="190" />
 </a>
+
+## 🏅 Achievements
+ 🤝 Microsoft campus Ambassador (2021).
+ 
+ 🥇 1rst in GeeksForGeeks Edinburgh Napier University coding ranks. 
+ 
+ 💪GeeksForGeeks Campus Ambassador (2020). 
+ 
+ 🏆 1rst classified at regional level in National Competitive Programming in team, HBFS TEAM (Italy 2016-2017);
+ 
+ ⭐ 28th Among 700+ teams in National Competitive Programming in team, HBFS TEAM (Italy 2016-2017)
+
 
 # Competitive Coding Profile #
 [![Hackerrank](https://img.shields.io/badge/-hackerrank-7cfc00?style=flat&labelColor=7cfc00&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/davidepollicino1)	
