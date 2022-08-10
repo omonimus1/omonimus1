@@ -21,6 +21,9 @@
 
 ## Apply for a mentorship session with me
 <a href="https://mentorcruise.com/mentor/davidepollicino/"> <img src="https://cdn.mentorcruise.com/img/banner/navy-sm.svg" width="240" alt="MentorCruise"> </a>
+## Get help with your assignemnt 
+[![Contact me on Codementor](https://www.codementor.io/m-badges/davidepollcino/find-me-on-cm-b.svg)](https://www.codementor.io/@davidepollcino?refer=badge)
+
 
 # Experienced in startups environment 
 
