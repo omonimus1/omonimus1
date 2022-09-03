@@ -2,14 +2,16 @@
 
 ## 🚀 About Me
 
-🧑🏻‍💻 Incoming **Software Engineer** @Microsoft, **Product Manager** [@getbuzz](http://getbuzz.uk), **Mentor** [@mentorcruise](http://mentorcruise.com/mentor/davidepollicino/), **Technical writer** on [Medium](https://davidepollicino.medium.com/), Ex SWE intern [@Microsoft](https://github.com/microsoft/), ex Tech Lead at NDWebSolutions, Ex **Lab Assistant** @Edinburgh Napier University
+🧑🏻‍💻 **Software Engineer** @Microsoft, **Mentor** [@mentorcruise](http://mentorcruise.com/mentor/davidepollicino/), **Technical writer** on [Medium](https://davidepollicino.medium.com/), ex **P.M.** [@getbuzz](http://getbuzz.uk) Ex SWE intern [@Microsoft](https://github.com/microsoft/), ex Tech Lead at NDWebSolutions, Ex **Lab Assistant** @Edinburgh Napier University
 
 🎓 **Graduated** in **Computer Science** at Edinburgh Napier university (2022).
 
-🤝 I’m looking for flutter developer, and Django developer to join us at BuzzUk, visit our [career website](https://getbuzzuk.notion.site/Buzz-Career-5ec923e938ea4f1da50f356f2c86312f).
-
 🎬 Favorite film: [Piccolo Cinema Paradiso (Small Cinema Paradise)](https://en.wikipedia.org/wiki/Cinema_Paradiso)
 <hr>
+
+## Apply for a mentorship session with me (get a 7 days free trial)
+<a href="https://mentorcruise.com/mentor/davidepollicino/"> <img src="https://cdn.mentorcruise.com/img/banner/navy-mentoring-badge.svg" width="240" alt="MentorCruise"> </a>
+
 
 # 🔗 Links  - [Get my Linktree](https://linktr.ee/davidepollicino) #
 
@@ -19,11 +21,7 @@
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:davidepollicino2015@gmail.com)
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/DavidePollicin.svg?style=social&label=Follow%20%40DavidePollicin)](https://twitter.com/DavidePollicin)
 
-## Apply for a mentorship session with me
-<a href="https://mentorcruise.com/mentor/davidepollicino/"> <img src="https://cdn.mentorcruise.com/img/banner/navy-sm.svg" width="240" alt="MentorCruise"> </a>
-## Get help with your project and assignment
-[![Contact me on Codementor](https://www.codementor.io/m-badges/davidepollcino/find-me-on-cm-b.svg)](https://www.codementor.io/@davidepollcino?refer=badge)
-
+<a href="https://mentorcruise.com/mentor/davidepollicino/"> <img src="https://cdn.mentorcruise.com/img/banner/sky-booking-badge.svg" width="240" alt="MentorCruise"> </a>
 
 # Experienced in startups environment 
 
