@@ -15,6 +15,7 @@
 
 # 🔗 Links  - [Get my Linktree](https://linktr.ee/davidepollicino) #
 
+[![davidepollicino.co.uk](https://img.shields.io/badge/davidepollicino.co.uk-000000?style=for-the-badge&logoColor=white)](https://davidepollicino.co.uk)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/davidepollicino7/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/omonimus1)
 [![medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://davidepollicino.medium.com/)
