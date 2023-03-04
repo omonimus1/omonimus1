@@ -11,6 +11,8 @@
 
 ## Apply for a mentorship session with me (get a 7 days free trial)
 <a href="https://mentorcruise.com/mentor/davidepollicino/"> <img src="https://cdn.mentorcruise.com/img/banner/navy-mentoring-badge.svg" width="240" alt="MentorCruise"> </a>
+## OR, book a 1-1 session with me:
+[https://mentorcruise.com/sessions/mentor/davidepollicino/](https://mentorcruise.com/sessions/mentor/davidepollicino/)
 
 
 # 🔗 Links  - [Get my Linktree](https://linktr.ee/davidepollicino) #
@@ -22,9 +24,6 @@
 [![Poliwork](https://img.shields.io/badge/Poliwork-0077B5?style=for-the-badge&logoColor=Blue)](https://www.polywork.com/davide_pollicino)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:davidepollicino2015@gmail.com)
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/DavidePollicin.svg?style=social&label=Follow%20%40DavidePollicin)](https://twitter.com/DavidePollicin)
-
-
-<a href="https://mentorcruise.com/mentor/davidepollicino/"> <img src="https://cdn.mentorcruise.com/img/banner/sky-booking-badge.svg" width="240" alt="MentorCruise"> </a>
 
 # Experienced in startups environment 
 
