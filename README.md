@@ -27,13 +27,9 @@
 
 # Experienced in startups environment 
 
-* [Getbuzz.uk](http://getbuzz.uk/): building next messaging application
 * [Beautygo.it](https://beautygo.it/): booking system for beauty services offered by hair stylists, barber shops and beauty salons in Italy.
 * [icoinqui.it](https://icoinqui.it/): real-estate renting platform that allows to review both landlord and flatmates, 
 after have found your new home!
-<a href="http://getbuzz.uk/" target="blank">
-    <img src="images/getbuzz.png" alt="GetBuzz" height="140" width="190" />
-</a> 
 <a href="https://beautygo.it/" target="blank">
     <img src="images/beautygo.png" alt="BeautyGo" height="140" width="190" />
 </a> 
