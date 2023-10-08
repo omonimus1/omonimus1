@@ -47,15 +47,17 @@ sentences searches.
 </a>
 
 ## 🏅 Achievements
+ 💼 Awarded as TOP mentor at [Mentorcruise (2023)](https://mentorcruise.com/mentor/davidepollicino/).
+ 
  🤝 Microsoft campus Ambassador (2021).
  
- 🥇 1rst in GeeksForGeeks Edinburgh Napier University coding ranks. 
+ 🥇 1st in GeeksForGeeks Edinburgh Napier University coding ranks. 
  
  💪GeeksForGeeks Campus Ambassador (2020). 
  
- 🏆 1rst classified at regional level in National Competitive Programming in team, HBFS TEAM (Italy 2016-2017);
+ 🏆 1rst classified at regional level in National Competitive Programming in the team, HBFS TEAM (Italy 2016-2017);
  
- ⭐ 28th Among 700+ teams in National Competitive Programming in team, HBFS TEAM (Italy 2016-2017)
+ ⭐ 28th Among 700+ teams in the National Competitive Programming team, HBFS TEAM (Italy 2016-2017)
 
 
 # 🔗 Links  - [Get my Linktree](https://linktr.ee/davidepollicino) #
