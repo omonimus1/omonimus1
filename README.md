@@ -36,8 +36,7 @@ after have found your new home!
 
 # Experience as product Manager during intensive rebranding, and growth operation at:
 * [FrontOfClass.co.uk](https://frontofclass.co.uk/): Leading recruiting company for education in the United Kingdom. 
-* [Lesentenze.it](https://www.lesentenze.it/): Leading italian source for court legal sentences view, with over **one million** of montly
-sentences searches. 
+* [Lesentenze.it](https://www.lesentenze.it/): Leading italian source for court legal sentences view, with over **2.4 millions** montly queries.
 
 <a href="https://frontofclass.co.uk/" target="blank">
     <img src="images/infrontofclass.png" alt="Frontofclass" height="140" width="190" />
