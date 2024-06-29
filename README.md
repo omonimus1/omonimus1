@@ -9,10 +9,10 @@
 🎬 Favorite film: [Piccolo Cinema Paradiso (Small Cinema Paradise)](https://en.wikipedia.org/wiki/Cinema_Paradiso)
 
 💼 Main Stack: 
-* Backend & Databases: Django, Python, C++, FastAPI, Flask, MongoDB, PostgreSQL, GraphQL, MariaDB and MYSQL.
-* Front-end: React, Typescript, Bootstrap, HTML5, CSS3, Jquery, Jest, Playwright, Cypress.
+* Backend & Databases: Django, Python, FastAPI, Flask, MongoDB, PostgreSQL, GraphQL, MariaDB and MYSQL.
+* Front-end: Javascript, React, Typescript, Bootstrap, HTML5, CSS3, Jquery, Jest, Playwright, Cypress.
 * Tools: Postman, Docker, Git, Github, Gitlab,  Github Action, CircleCI, Jenkins.
-* Cloud Providers: **Azure (certified)**, AWS, Google Cloud Platform.
+* Cloud Providers: **Azure (Azure AI engineer Associate certified)**, AWS, Google Cloud Platform.
 [See my linkedin profile](https://www.linkedin.com/in/davidepollicino7/)
  
 [GET CV](https://docs.google.com/document/d/1dBRsiLnIYSucAK_4-TqJ7f1cos0yhGUJ-rS21giDBTM/edit?usp=sharing)
