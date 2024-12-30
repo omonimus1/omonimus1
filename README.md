@@ -2,7 +2,9 @@
 
 ## 🚀 About Me
 
-🧑🏻‍💻 **Software Engineer** @Microsoft, **Mentor** [@mentorcruise](http://mentorcruise.com/mentor/davidepollicino/), **Technical writer** on [Medium](https://davidepollicino.medium.com/), ex **P.M.** [@getbuzz](http://getbuzz.uk) Ex SWE intern [@Microsoft](https://github.com/microsoft/), ex Tech Lead at NDWebSolutions, Ex **Lab Assistant** @Edinburgh Napier University
+🧑🏻‍💻 **Software Engineer** @Microsoft, **Carreer and Business Mentor** [@mentorcruise](http://mentorcruise.com/mentor/davidepollicino/) and board member at [https://taxcoder.cz](https://taxcoder.cz/).
+
+In the past: **Technical writer** on [Medium](https://davidepollicino.medium.com/), ex **P.M.** [@getbuzz](http://getbuzz.uk) Ex SWE intern [@Microsoft](https://github.com/microsoft/), ex Tech Lead at NDWebSolutions, Ex **Lab Assistant** @Edinburgh Napier University
 
 🎓 **Graduated** in **Computer Science** at Edinburgh Napier university (2022).
 
