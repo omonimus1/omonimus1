@@ -17,8 +17,6 @@ In the past: **Technical writer** on [Medium](https://davidepollicino.medium.com
 * Cloud Providers: **Azure (Azure AI engineer Associate certified)**, AWS, Google Cloud Platform.
 [See my linkedin profile](https://www.linkedin.com/in/davidepollicino7/)
  
-[GET CV](https://docs.google.com/document/d/1dBRsiLnIYSucAK_4-TqJ7f1cos0yhGUJ-rS21giDBTM/edit?usp=sharing)
-
 <hr>
 
 ## Carreer mentorship services
@@ -83,3 +81,5 @@ after have found your new home!
 [![Hackerearth](https://img.shields.io/badge/hackerearth-purple.svg)](https://www.hackerearth.com/@davide12)	
 
 
+## Extra experiment
+- [https://felinewear.com/](https://felinewear.com/)
