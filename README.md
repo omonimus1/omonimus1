@@ -15,9 +15,11 @@ In the past: **Technical writer** on [Medium](https://davidepollicino.medium.com
 * Front-end: Javascript, React, Typescript, Bootstrap, HTML5, CSS3, Jquery, Jest, Playwright, Cypress.
 * Tools: Postman, Docker, Git, Github, Gitlab,  Github Action, CircleCI, Jenkins.
 * Cloud Providers: **Azure (Azure AI engineer Associate certified)**, AWS, Google Cloud Platform.
-[See my linkedin profile](https://www.linkedin.com/in/davidepollicino7/)
-
- [![roadmap.sh](https://roadmap.sh/card/tall/6926edc7467651eddb006d29?variant=dark)](https://roadmap.sh)
+<hr>
+1. [See my linkedin profile](https://www.linkedin.com/in/davidepollicino7/)
+2. [Roadmap profile https://roadmap.sh/u/davidepollicino](https://roadmap.sh/u/davidepollicino)
+<hr>
+[![roadmap.sh](https://roadmap.sh/card/tall/6926edc7467651eddb006d29?variant=dark)](https://roadmap.sh)
 <hr>
 
 ## Carreer mentorship services
