@@ -1,33 +1,24 @@
 <h1 align="center"> Hi 👋, it is great to have you here!<br/> </h1> 
 
 ## 🚀 About Me
-
 🧑🏻‍💻 **Software Engineer** @Microsoft, **Carreer and Business Mentor** [@mentorcruise](http://mentorcruise.com/mentor/davidepollicino/) and board member at [https://taxcoder.cz](https://taxcoder.cz/).
-
 In the past: **Technical writer** on [Medium](https://davidepollicino.medium.com/), ex **P.M.** [@getbuzz](http://getbuzz.uk) Ex SWE intern [@Microsoft](https://github.com/microsoft/), ex Tech Lead at NDWebSolutions, Ex **Lab Assistant** @Edinburgh Napier University
-
 🎓 **Graduated** in **Computer Science** at Edinburgh Napier university (2022).
 
-🎬 Favorite film: [Piccolo Cinema Paradiso (Small Cinema Paradise)](https://en.wikipedia.org/wiki/Cinema_Paradiso)
+
 
 💼 Main Stack: 
 * Backend & Databases: Django, Python, FastAPI, Flask, MongoDB, PostgreSQL, GraphQL, MariaDB and MYSQL.
 * Front-end: Javascript, React, Typescript, Bootstrap, HTML5, CSS3, Jquery, Jest, Playwright, Cypress.
 * Tools: Postman, Docker, Git, Github, Gitlab,  Github Action, CircleCI, Jenkins.
-* Cloud Providers: **Azure (Azure AI engineer Associate certified)**, AWS, Google Cloud Platform.
-<hr>
-1. [See my linkedin profile](https://www.linkedin.com/in/davidepollicino7/)
-2. [Roadmap profile https://roadmap.sh/u/davidepollicino](https://roadmap.sh/u/davidepollicino)
-<hr>
-[![roadmap.sh](https://roadmap.sh/card/tall/6926edc7467651eddb006d29?variant=dark)](https://roadmap.sh)
-<hr>
+* Cloud Providers: **Azure (Azure AI engineer Associate certified)**, AWS (Amazon web services), Google Cloud Platform.
 
 ## Carreer mentorship services
 * Apply for a mentorship, and get 7 days free trial, free CV, LinkedIn and Github feedback. [Apply here](https://mentorcruise.com/mentor/davidepollicino/)
-* Book a 1-1 single session here: [https://mentorcruise.com/sessions/mentor/davidepollicino/](https://mentorcruise.com/sessions/mentor/davidepollicino/)
 
 # Experienced in startups environments
 * [Beautygo.it](https://beautygo.it/): booking system for beauty services offered by hair stylists, barber shops and beauty salons in Italy.
+* [https://felinewear.com/](https://felinewear.com/)
 * [icoinqui.it](https://icoinqui.it/): real-estate renting platform that allows to review both landlord and flatmates, 
 after have found your new home!
 <a href="https://beautygo.it/" target="blank">
@@ -61,7 +52,6 @@ after have found your new home!
  
  ⭐ 28th Among 700+ teams in the National Competitive Programming team, HBFS TEAM (Italy 2016-2017)
 
-
 # 🔗 Links  - [Get my Linktree](https://linktr.ee/davidepollicino) #
 
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/davidepollicino7/)
@@ -81,6 +71,6 @@ after have found your new home!
 [![CodeForces](https://img.shields.io/badge/-CodeForces-ec6161?style=flat&labelColor=ec6161&logo=CodeForces&logoColor=white)](https://codeforces.com/profile/Davide_Pollicino)	
 [![Hackerearth](https://img.shields.io/badge/hackerearth-purple.svg)](https://www.hackerearth.com/@davide12)	
 
+------------------------------------------------------------------------
+🎬 Favorite film: [Piccolo Cinema Paradiso (Small Cinema Paradise)](https://en.wikipedia.org/wiki/Cinema_Paradiso)
 
-## Extra experiment
-- [https://felinewear.com/](https://felinewear.com/)
