@@ -36,7 +36,7 @@ after have found your new home!
 * Tools: Postman, Docker, Git, Github, Gitlab,  Github Action, CircleCI, Jenkins.
 * Cloud Providers: **Azure (Azure AI engineer Associate certified)**, AWS (Amazon web services), Google Cloud Platform.
 
-## 🏅 Achievements
+## Recognition
  💼 Awarded as TOP mentor at [Mentorcruise (2023)](https://mentorcruise.com/mentor/davidepollicino/).
  
  🤝 Microsoft campus Ambassador (2021).
