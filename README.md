@@ -6,7 +6,7 @@ In the past: **Technical writer** on [Medium](https://davidepollicino.medium.com
 🎓 **Graduated** in **Computer Science** at Edinburgh Napier university (2022).
 
 ## Current Projects
-* [taxcoder.cz](https://taxcoder.cz)
+* [taxcoder.cz](https://taxcoder.cz): SAAS marketplace to connect tax specialist with clients.
 * (internal to Microsoft) Sentinel AI: Azure devops agent which analyze pipeline build failures and post a code fix suggestion to mitigate the pipeline failure.
 
 ## Legacy Work
