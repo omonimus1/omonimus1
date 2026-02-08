@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Peter 👋<br/> </h1> 
+<h1 align="center">Hi, I'm Davide 👋<br/> </h1> 
 
 ## 🚀 About Me
 🧑🏻‍💻 **Software Engineer** @Microsoft, **Carreer and Business Mentor** [@mentorcruise](http://mentorcruise.com/mentor/davidepollicino/) and board member at [https://taxcoder.cz](https://taxcoder.cz/).
