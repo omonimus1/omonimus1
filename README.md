@@ -7,8 +7,9 @@ In the past: **Technical writer** on [Medium](https://davidepollicino.medium.com
 
 ## Current Projects
 * [taxcoder.cz](https://taxcoder.cz)
+* (internal to Microsoft) Sentinel AI: Azure devops agent which analyze pipeline build failures and post a code fix suggestion to mitigate the pipeline failure.
 
-## Legacy Work I contributed to
+## Legacy Work
 * [Beautygo.it](https://beautygo.it/): booking system for beauty services offered by hair stylists, barber shops and beauty salons in Italy.
 * [https://felinewear.com/](https://felinewear.com/)
 * [icoinqui.it](https://icoinqui.it/): real-estate renting platform that allows to review both landlord and flatmates, 
@@ -35,6 +36,7 @@ after have found your new home!
 * Front-end: Javascript, React, Typescript, Bootstrap, HTML5, CSS3, Jquery, Jest, Playwright, Cypress.
 * Tools: Postman, Docker, Git, Github, Gitlab,  Github Action, CircleCI, Jenkins.
 * Cloud Providers: **Azure (Azure AI engineer Associate certified)**, AWS (Amazon web services), Google Cloud Platform.
+* AI: Claude code, lovable.dev, langchain, langsmith, openAI APIs, model evals, MCPs (model context protocol), claude code/ github copilot instructions/skills.
 
 ## Recognition
  💼 Awarded as TOP mentor at [Mentorcruise (2023)](https://mentorcruise.com/mentor/davidepollicino/).
