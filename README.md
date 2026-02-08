@@ -4,7 +4,8 @@
 🧑🏻‍💻 **Software Engineer** @Microsoft, **Career Mentor, CTO-as-a-Service, and Business Advisor** [@mentorcruise](http://mentorcruise.com/mentor/davidepollicino/) and board member at [https://taxcoder.cz](https://taxcoder.cz/).
 occasional technical blogger on [Medium](https://davidepollicino.medium.com/), ex Product Manager and tech lead at [@getbuzz](http://getbuzz.uk) ex Tech Lead at NDWebSolutions.
 I kicked off my career as Software engineering intern at [@Microsoft](https://github.com/microsoft/), and *Computer Science and Software Engineer  courses Teaching Assistant (TA)** @Edinburgh Napier University.
-🎓 **Graduated** in **Bacherlor of Computer Science** at Edinburgh Napier university.
+
+🎓 Bacherlor of Computer Science at Edinburgh Napier university.
 
 ## Current Projects
 * (Microsoft) **Sentinel AI**: Azure devops agent which analyze pipeline build failures and post a code fix suggestion to mitigate the pipeline failure.
