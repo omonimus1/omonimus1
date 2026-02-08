@@ -1,13 +1,15 @@
 <h1 align="center">Hi, I'm Davide 👋<br/> </h1> 
 
 ## 🚀 About Me
-🧑🏻‍💻 **Software Engineer** @Microsoft, **Carreer and Business Mentor** [@mentorcruise](http://mentorcruise.com/mentor/davidepollicino/) and board member at [https://taxcoder.cz](https://taxcoder.cz/).
-In the past: **Technical writer** on [Medium](https://davidepollicino.medium.com/), ex **P.M.** [@getbuzz](http://getbuzz.uk) Ex SWE intern [@Microsoft](https://github.com/microsoft/), ex Tech Lead at NDWebSolutions, Ex **Lab Assistant** @Edinburgh Napier University
-🎓 **Graduated** in **Computer Science** at Edinburgh Napier university (2022).
+🧑🏻‍💻 **Software Engineer** @Microsoft, **Career Mentor, CTO-as-a-Service, and Business Advisor** [@mentorcruise](http://mentorcruise.com/mentor/davidepollicino/) and board member at [https://taxcoder.cz](https://taxcoder.cz/).
+occasional technical blogger on [Medium](https://davidepollicino.medium.com/), ex Product Manager and tech lead at [@getbuzz](http://getbuzz.uk) ex Tech Lead at NDWebSolutions.
+I kicked off my career as Software engineering intern at [@Microsoft](https://github.com/microsoft/), and *Computer Science and Software Engineer  courses Teaching Assistant (TA)** @Edinburgh Napier University.
+🎓 **Graduated** in **Bacherlor of Computer Science** at Edinburgh Napier university.
 
 ## Current Projects
+* (Microsoft) **Sentinel AI**: Azure devops agent which analyze pipeline build failures and post a code fix suggestion to mitigate the pipeline failure.
 * [taxcoder.cz](https://taxcoder.cz): SAAS marketplace to connect tax specialist with clients.
-* (internal to Microsoft) Sentinel AI: Azure devops agent which analyze pipeline build failures and post a code fix suggestion to mitigate the pipeline failure.
+
 
 ## Legacy Work
 * [Beautygo.it](https://beautygo.it/): booking system for beauty services offered by hair stylists, barber shops and beauty salons in Italy.
@@ -51,7 +53,7 @@ after have found your new home!
 
  ⭐ 28th Among 700+ teams in the National Competitive Programming team, HBFS TEAM (Italy 2016-2017)
 
-# Competitive Coding Profile #
+# Coding challenges Profile #
 [![Hackerrank](https://img.shields.io/badge/-hackerrank-7cfc00?style=flat&labelColor=7cfc00&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/davidepollicino1)	
 [![InterViewBit](https://img.shields.io/badge/-Interviewbit-87ceeb?style=flat&labelColor=87ceeb&logo=Interviewbit&logoColor=white)](https://www.interviewbit.com/profile/omonimus1)
 [![GeeksForGeeks](https://img.shields.io/badge/geeksforfeeks-davidepollicino-green)](https://auth.geeksforgeeks.org/user/davidepollicino/practice/)	
