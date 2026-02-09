@@ -1,11 +1,12 @@
 <h1 align="center">Hi, I'm Davide 👋<br/> </h1> 
 
 ## 🚀 About Me
-🧑🏻‍💻 **Software Engineer** @Microsoft, **Career Mentor, CTO-as-a-Service, and Business Advisor** [@mentorcruise](http://mentorcruise.com/mentor/davidepollicino/) and board member at [https://taxcoder.cz](https://taxcoder.cz/).
-occasional technical blogger on [Medium](https://davidepollicino.medium.com/), ex Product Manager and tech lead at [@getbuzz](http://getbuzz.uk) ex Tech Lead at NDWebSolutions.
-I kicked off my career as Software engineering intern at [@Microsoft](https://github.com/microsoft/), and *Computer Science and Software Engineer  courses Teaching Assistant (TA)** @Edinburgh Napier University.
+🧑🏻‍💻 **Software Engineer** @Microsoft, **Career Mentor, CTO-as-a-Service, Business Advisor** [@mentorcruise](http://mentorcruise.com/mentor/davidepollicino/) and board member at [https://taxcoder.cz](https://taxcoder.cz/).
+Occasional technical blogger on [Medium](https://davidepollicino.medium.com/), ex Product Manager and tech lead at [@getbuzz](http://getbuzz.uk) ex Tech Lead at NDWebSolutions.
 
-🎓 Bacherlor of Computer Science at Edinburgh Napier university.
+I kicked off my career as Software engineering intern at [@Microsoft](https://github.com/microsoft/), and **Computer Science and Software Engineer courses Teaching Assistant (TA)** @Edinburgh Napier University.
+
+🎓 Bacherlor of Computer Science at [Edinburgh Napier university.](https://www.napier.ac.uk)
 
 ## Current Projects
 * (Microsoft) **Sentinel AI**: Azure devops agent which analyze pipeline build failures and post a code fix suggestion to mitigate the pipeline failure.
@@ -15,14 +16,15 @@ I kicked off my career as Software engineering intern at [@Microsoft](https://gi
 - [AI terminal: local model powered AI terminal, leveraging ollama](https://github.com/AiTerminalFoundation/ai-terminal)
 - [Microsoft graph python sdk core](https://github.com/microsoftgraph/msgraph-sdk-python-core/pulls?q=is%3Apr+is%3Aclosed+author%3Aomonimus1)
 - [Microsoft teams antivirus and data protection tools interfernce in windows ecosystem guideline](https://learn.microsoft.com/en-us/troubleshoot/microsoftteams/teams-administration/include-exclude-teams-from-antivirus-dlp)
+- GetBuzz: Mobile app for post-covid networking and social activities.
 
 ## Legacy Work
-* [Beautygo.it](https://beautygo.it/): booking system for beauty services offered by hair stylists, barber shops and beauty salons in Italy.
-* [https://felinewear.com/](https://felinewear.com/)
-* [icoinqui.it](https://icoinqui.it/): real-estate renting platform that allows to review both landlord and flatmates, 
-after have found your new home!
-* [FrontOfClass.co.uk](https://frontofclass.co.uk/): Leading recruiting company for education in the United Kingdom. 
 * [Lesentenze.it](https://www.lesentenze.it/): Leading italian source for court legal sentences view, with over **2.4 millions** montly queries.
+* * [FrontOfClass.co.uk](https://frontofclass.co.uk/): Leading recruiting company for education in the United Kingdom. 
+* [Beautygo.it](https://beautygo.it/): SAAS to manage beauty salon appointment smanagement via online system reservation and payment.
+* [https://felinewear.com/](https://felinewear.com/): Shopify cat clothes and games.
+* [icoinqui.it](https://icoinqui.it/): real-estate renting platform with reviews among tenats and landlord.
+after have found your new home!
 
 ## Connect
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/davidepollicino7/)
