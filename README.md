@@ -14,6 +14,7 @@ I kicked off my career as Software engineering intern at [@Microsoft](https://gi
 ## Contributions
 - [AI terminal: local model powered AI terminal, leveraging ollama](https://github.com/AiTerminalFoundation/ai-terminal)
 - [Microsoft graph python sdk core](https://github.com/microsoftgraph/msgraph-sdk-python-core/pulls?q=is%3Apr+is%3Aclosed+author%3Aomonimus1)
+- [Microsoft teams antivirus and data protection tools interfernce in windows ecosystem guideline](https://learn.microsoft.com/en-us/troubleshoot/microsoftteams/teams-administration/include-exclude-teams-from-antivirus-dlp)
 
 ## Legacy Work
 * [Beautygo.it](https://beautygo.it/): booking system for beauty services offered by hair stylists, barber shops and beauty salons in Italy.
@@ -45,18 +46,18 @@ after have found your new home!
 * AI: Claude code, lovable.dev, langchain, langsmith, openAI APIs, model evals, MCPs (model context protocol), claude code/ github copilot instructions/skills, Ollama, OpenRouter.
 
 ## Recognition
- 💼 Awarded as TOP mentor at [Mentorcruise (2023)](https://mentorcruise.com/mentor/davidepollicino/).
- 
- 🤝 Microsoft campus Ambassador (2021).
- 
- 🥇 1st in GeeksForGeeks Edinburgh Napier University coding ranks. 
- 
- 💪GeeksForGeeks Campus Ambassador (2020). 
+ 💼 [Mentorcruise' top mentor](https://mentorcruise.com/mentor/davidepollicino/).
+
+ 🥇 1st in GeeksForGeeks Edinburgh Napier University coding leaderboard.
  
  🏆 1rst classified at regional level in National Competitive Programming in the team, HBFS TEAM (Italy 2016-2017);
 
  ⭐ 28th Among 700+ teams in the National Competitive Programming team, HBFS TEAM (Italy 2016-2017)
 
+ 🤝 Microsoft campus Ambassador (2021).
+ 
+ 💪GeeksForGeeks Campus Ambassador (2020). 
+ 
 # Coding challenges Profile #
 [![Hackerrank](https://img.shields.io/badge/-hackerrank-7cfc00?style=flat&labelColor=7cfc00&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/davidepollicino1)	
 [![InterViewBit](https://img.shields.io/badge/-Interviewbit-87ceeb?style=flat&labelColor=87ceeb&logo=Interviewbit&logoColor=white)](https://www.interviewbit.com/profile/omonimus1)
