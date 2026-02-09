@@ -11,6 +11,7 @@ I kicked off my career as Software engineering intern at [@Microsoft](https://gi
 ## Current Projects
 * (Microsoft) **Sentinel AI**: Azure devops agent which analyze pipeline build failures and post a code fix suggestion to mitigate the pipeline failure.
 * [taxcoder.cz](https://taxcoder.cz): SAAS marketplace to connect tax specialist with clients.
+* [facetimectl](https://github.com/omonimus1/facetimectl): to let your agent interact with facetime.
 
 ## Contributions
 - [AI terminal: local model powered AI terminal, leveraging ollama](https://github.com/AiTerminalFoundation/ai-terminal)
