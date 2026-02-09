@@ -20,7 +20,7 @@ I kicked off my career as Software engineering intern at [@Microsoft](https://gi
 
 ## Legacy Work
 * [Lesentenze.it](https://www.lesentenze.it/): Leading italian source for court legal sentences view, with over **2.4 millions** montly queries.
-* * [FrontOfClass.co.uk](https://frontofclass.co.uk/): Leading recruiting company for education in the United Kingdom. 
+* [FrontOfClass.co.uk](https://frontofclass.co.uk/): Leading recruiting company for education in the United Kingdom. 
 * [Beautygo.it](https://beautygo.it/): SAAS to manage beauty salon appointment smanagement via online system reservation and payment.
 * [https://felinewear.com/](https://felinewear.com/): Shopify cat clothes and games.
 * [icoinqui.it](https://icoinqui.it/): real-estate renting platform with reviews among tenats and landlord.
