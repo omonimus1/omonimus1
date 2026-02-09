@@ -42,7 +42,7 @@ after have found your new home!
 * Front-end: Javascript, React, Typescript, Bootstrap, HTML5, CSS3, Jquery, Jest, Playwright, Cypress.
 * Tools: Postman, Docker, Git, Github, Gitlab,  Github Action, CircleCI, Jenkins.
 * Cloud Providers: **Azure (Azure AI engineer Associate certified)**, AWS (Amazon web services), Google Cloud Platform.
-* AI: Claude code, lovable.dev, langchain, langsmith, openAI APIs, model evals, MCPs (model context protocol), claude code/ github copilot instructions/skills.
+* AI: Claude code, lovable.dev, langchain, langsmith, openAI APIs, model evals, MCPs (model context protocol), claude code/ github copilot instructions/skills, Ollama, OpenRouter.
 
 ## Recognition
  💼 Awarded as TOP mentor at [Mentorcruise (2023)](https://mentorcruise.com/mentor/davidepollicino/).
