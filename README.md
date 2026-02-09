@@ -11,6 +11,9 @@ I kicked off my career as Software engineering intern at [@Microsoft](https://gi
 * (Microsoft) **Sentinel AI**: Azure devops agent which analyze pipeline build failures and post a code fix suggestion to mitigate the pipeline failure.
 * [taxcoder.cz](https://taxcoder.cz): SAAS marketplace to connect tax specialist with clients.
 
+## Contributions
+- [AI terminal: local model powered AI terminal, leveraging ollama](https://github.com/AiTerminalFoundation/ai-terminal)
+- [Microsoft graph python sdk core](https://github.com/microsoftgraph/msgraph-sdk-python-core/pulls?q=is%3Apr+is%3Aclosed+author%3Aomonimus1)
 
 ## Legacy Work
 * [Beautygo.it](https://beautygo.it/): booking system for beauty services offered by hair stylists, barber shops and beauty salons in Italy.
