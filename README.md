@@ -13,8 +13,9 @@ I kicked off my career as Software engineering intern at [@Microsoft](https://gi
 * [taxcoder.cz](https://taxcoder.cz): SAAS marketplace to connect tax specialist with clients.
 * [facetimectl](https://github.com/omonimus1/facetimectl): to let your agent interact with facetime.
 
-## Contributions
+## Open Source Contributions
 - [AI terminal: local model powered AI terminal, leveraging ollama](https://github.com/AiTerminalFoundation/ai-terminal)
+- [VScode AI prompt optimizer: ](https://github.com/microsoft/vscode-chat-customizations-evaluation/pull/43)
 - [Microsoft graph python sdk core](https://github.com/microsoftgraph/msgraph-sdk-python-core/pulls?q=is%3Apr+is%3Aclosed+author%3Aomonimus1)
 - [Microsoft teams antivirus and data protection tools interfernce in windows ecosystem guideline](https://learn.microsoft.com/en-us/troubleshoot/microsoftteams/teams-administration/include-exclude-teams-from-antivirus-dlp)
 - GetBuzz: Mobile app for post-covid networking and social activities.
