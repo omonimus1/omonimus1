@@ -73,7 +73,7 @@ after have found your new home!
 - [https://app.usebraintrust.com/talent/2167896/](https://app.usebraintrust.com/talent/2167896/)
 - [https://www.coursera.org/user/1c036c778eae7eb181676c51abd5d24e](https://www.coursera.org/user/1c036c778eae7eb181676c51abd5d24e)
 - [https://contra.com/davide_pollicino_dmd73u0t/about](https://contra.com/davide_pollicino_dmd73u0t/about)
-
+- [https://wellfound.com/u/davide-pollcino](https://wellfound.com/u/davide-pollcino)
 ------------------------------------------------------------------------
 🎬 Favorite film: [Piccolo Cinema Paradiso (Small Cinema Paradise)](https://en.wikipedia.org/wiki/Cinema_Paradiso)
 
