@@ -38,8 +38,6 @@ after have found your new home!
 
 [Get my Linktree](https://linktr.ee/davidepollicino)
 
-## GitHub Activity
-![GitHub Contribution Graph](https://ghchart.rshah.org/omonimus1)
 
 ## Main Stack: 
 * Backend & Databases: Django, Python, FastAPI, Flask, MongoDB, PostgreSQL, GraphQL, MariaDB and MYSQL.
@@ -71,8 +69,12 @@ after have found your new home!
 [![CodeForces](https://img.shields.io/badge/-CodeForces-ec6161?style=flat&labelColor=ec6161&logo=CodeForces&logoColor=white)](https://codeforces.com/profile/Davide_Pollicino)	
 [![Hackerearth](https://img.shields.io/badge/hackerearth-purple.svg)](https://www.hackerearth.com/@davide12)	
 
+## Others
+- [https://app.usebraintrust.com/talent/2167896/](https://app.usebraintrust.com/talent/2167896/)
+- [https://www.coursera.org/user/1c036c778eae7eb181676c51abd5d24e](https://www.coursera.org/user/1c036c778eae7eb181676c51abd5d24e)
+
 ------------------------------------------------------------------------
 🎬 Favorite film: [Piccolo Cinema Paradiso (Small Cinema Paradise)](https://en.wikipedia.org/wiki/Cinema_Paradiso)
 
-Others: [https://www.coursera.org/user/1c036c778eae7eb181676c51abd5d24e](https://www.coursera.org/user/1c036c778eae7eb181676c51abd5d24e)
-
+## GitHub Activity
+![GitHub Contribution Graph](https://ghchart.rshah.org/omonimus1)
