@@ -75,6 +75,7 @@ after have found your new home!
 - [https://contra.com/davide_pollicino_dmd73u0t/about](https://contra.com/davide_pollicino_dmd73u0t/about)
 - [https://wellfound.com/u/davide-pollcino](https://wellfound.com/u/davide-pollcino)
 - [https://www.welcometothejungle.com/](https://www.welcometothejungle.com/)
+- [https://pangea.ai/](https://pangea.ai/)
 ------------------------------------------------------------------------
 🎬 Favorite film: [Piccolo Cinema Paradiso (Small Cinema Paradise)](https://en.wikipedia.org/wiki/Cinema_Paradiso)
 
