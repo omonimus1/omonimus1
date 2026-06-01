@@ -4,6 +4,8 @@
 🧑🏻‍💻 **Software Engineer** @Microsoft, **Career Mentor, CTO-as-a-Service, Business Advisor** [@mentorcruise](http://mentorcruise.com/mentor/davidepollicino/) and board member at [https://taxcoder.cz](https://taxcoder.cz/).
 Occasional technical blogger on [Medium](https://davidepollicino.medium.com/), ex Product Manager and tech lead at [@getbuzz](http://getbuzz.uk) ex Tech Lead at NDWebSolutions.
 
+[visit my YouTube channel](youtube.com/@davidepollicino)
+
 I kicked off my career as Software engineering intern at [@Microsoft](https://github.com/microsoft/), and **Computer Science and Software Engineer courses Teaching Assistant (TA)** @Edinburgh Napier University.
 
 🎓 Bacherlor of Computer Science at [Edinburgh Napier university.](https://www.napier.ac.uk)
